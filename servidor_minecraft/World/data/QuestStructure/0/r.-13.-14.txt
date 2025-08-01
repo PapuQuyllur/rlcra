@@ -1,0 +1,8 @@
+VillageMarketplace,-7018,-7004,-7633,-7619
+P_Village2Story,-7056,-7043,-7630,-7624
+VillageGuardTower,-7053,-7041,-7594,-7582
+VillageTriplets,-7038,-7024,-7594,-7580
+P_VillageFarmhouse,-7012,-7000,-7594,-7582
+VillageWoodMill,-6997,-6984,-7594,-7578
+SeasonsGreenhouse,-7044,-7034,-7564,-7552
+RLCraft_Vineyard,-7018,-6998,-7574,-7546

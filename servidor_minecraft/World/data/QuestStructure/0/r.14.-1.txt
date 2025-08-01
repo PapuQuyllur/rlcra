@@ -1,0 +1,6 @@
+ElvenPond,7258,7288,-950,-921
+DinosaurSkull,7173,7184,-788,-769
+MonolythUnholy,7299,7313,-809,-795
+ShrineSmallFire,7335,7345,-952,-942
+P_SpookyHouse,7356,7382,-1001,-961
+StonePlantMound4,7433,7440,-877,-870

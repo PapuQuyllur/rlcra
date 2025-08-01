@@ -1,0 +1,14 @@
+P_WizardTower,393,423,-7250,-7220
+RLCraft_SmallUndergroundSkeleton,476,484,-7189,-7181
+StonePlantMound1,268,274,-7174,-7168
+ClayWaterMound,267,275,-7338,-7331
+RLCraft_SmallUndergroundSkeleton,172,180,-7204,-7196
+StonePlantMound,265,270,-7344,-7339
+StoneLeafMound,377,384,-7360,-7351
+StoneLeafMound,192,199,-7246,-7237
+SmallAbandonedOutpost,169,199,-7313,-7291
+StonePlantMound2,167,180,-7262,-7250
+StoneBoulder,120,129,-7296,-7287
+StonePlantMound2,315,328,-7424,-7412
+MysticalTree2,470,480,-7432,-7422
+MysticalTree2,421,431,-7509,-7499

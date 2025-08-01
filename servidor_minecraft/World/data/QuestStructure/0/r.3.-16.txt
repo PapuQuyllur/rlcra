@@ -1,0 +1,2 @@
+BlazeSpawnerCrystal,1953,1959,-8195,-8189
+P_SmallShip,1906,1926,-8230,-8224

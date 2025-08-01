@@ -1,0 +1,17 @@
+StonePlantMound,-140,-135,284,289
+StonePlantMound4,-127,-120,339,346
+RLCraft_DecentSkeleton,-127,-127,392,392
+RLCraft_UndergroundRuin3,-129,-121,389,397
+StonePlantMound3,-78,-67,285,294
+StonePlantMound3,-74,-63,300,309
+RLCraft_BasicZombie,-69,-69,382,382
+RLCraft_UndergroundRuin1,-75,-66,379,388
+StonePlantMound1,-31,-25,351,357
+SmallWoodenCottage2,-15,-7,249,257
+RLCraft_DecentSkeleton,-24,-24,342,342
+RLCraft_UndergroundRuin3,-27,-19,336,344
+StonePlantBoulder,-25,-15,-138,-128
+BrickHenge,-11,5,341,357
+StonePlantMound2,21,33,330,343
+StonePlantBoulder,43,53,330,340
+StonePlantMound2,140,152,356,369

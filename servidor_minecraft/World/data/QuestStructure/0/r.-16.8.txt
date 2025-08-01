@@ -1,0 +1,14 @@
+StoneBoulder,-8434,-8425,4454,4463
+StoneLeafMound,-8437,-8428,4399,4406
+BrickHenge,-8424,-8408,4448,4464
+StonePlantMound,-8510,-8505,4442,4447
+StonePlantMound1,-8508,-8502,4421,4427
+StonePlantMound3,-8471,-8460,4355,4364
+RLCraft_DecentSkeleton,-8407,-8407,4481,4481
+RLCraft_UndergroundRuin2,-8409,-8402,4476,4486
+RLCraft_BasicSpider,-8449,-8449,4365,4365
+RLCraft_UndergroundRuin1,-8455,-8446,4362,4371
+ClayWaterMound,-8407,-8400,4504,4512
+StonePlantMound4,-8502,-8495,4340,4347
+DinosaurSkeleton,-8553,-8544,4481,4527
+ShrineSmallFire,-8556,-8546,4534,4544

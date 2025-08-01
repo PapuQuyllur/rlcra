@@ -1,0 +1,16 @@
+RLCraft_DecentSkeleton,-8336,-8336,7432,7432
+RLCraft_UndergroundRuin2,-8341,-8331,7427,7434
+RLCraft_SmallUndergroundSkeleton,-8300,-8292,7358,7366
+RLCraft_BasicCaveSpider,-8356,-8356,7377,7377
+RLCraft_UndergroundRuin1,-8362,-8353,7374,7383
+StonePlantMound1,-8394,-8388,7483,7489
+OldWatchtower,-8276,-8264,7537,7550
+StoneBoulder,-8454,-8445,7495,7504
+StonePlantMound1,-8429,-8423,7611,7617
+ClayWaterMound1,-8429,-8419,7667,7678
+StonePlantMound,-8489,-8484,7672,7677
+StoneBoulder,-8568,-8559,7641,7650
+StonePlantMound3,-8603,-8592,7512,7521
+StonePlantMound1,-8622,-8616,7676,7682
+StoneBoulder,-8666,-8657,7626,7635
+CuboneSkull,-8676,-8615,7488,7546

@@ -1,0 +1,4 @@
+StoneLeafMound,6714,6723,2503,2510
+StonePlantMound2,6807,6820,2420,2432
+StoneBoulder,6831,6840,2528,2537
+P_CathedralOfMadness,6763,6919,2444,2532

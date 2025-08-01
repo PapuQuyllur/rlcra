@@ -1,0 +1,7 @@
+StoneBoulder,4901,4910,6032,6041
+StonePlantMound,4937,4942,6067,6072
+StonePlantMound2,4953,4965,6077,6090
+DinosaurSkull,5018,5029,6041,6060
+StonePlantMound,4853,4858,5909,5914
+RLCraft_DecentSpider,5023,5023,5902,5902
+RLCraft_UndergroundRuin3,5018,5026,5896,5904
