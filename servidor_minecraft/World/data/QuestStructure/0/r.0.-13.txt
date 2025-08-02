@@ -216,3 +216,7 @@ RLCraft_BasicWitch,283,283,-6808,-6808
 RLCraft_UndergroundRuin1,280,289,-6811,-6802
 StonePlantMound,279,284,-6784,-6779
 StoneLeafMound,285,294,-6891,-6884
+StonePlantBoulder,-6,4,-7073,-7063
+StonePlantBoulder,-25,-15,-7024,-7014
+SmallFortRuinsJapanese,-88,-42,-7168,-7122
+StonePlantMound4,-111,-104,-7058,-7051

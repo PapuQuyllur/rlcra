@@ -4384,3 +4384,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:45:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lancelot_117
 [23:46:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Krake
 [23:46:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:47:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Krake
+[23:47:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:47:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[23:48:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1120_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[23:49:45] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1120_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[23:49:56] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[23:50:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lancelot_117
+[23:50:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lancelot_117
+[23:50:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lancelot_117
+[23:50:26] [Server thread/INFO] [antiqueatlas]: Created new marker #1"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(-59, -7196)
+[23:50:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved too quickly! -10.030081720295073,-0.747796584898694,0.39871704906727246
+[23:50:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3602ms behind, skipping 72 tick(s)
+[23:50:49] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:50:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Lancelot_117]
+[23:52:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lancelot_117
+[23:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[23:53:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lancelot_117
+[23:53:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Who Lives Here?]
+[23:53:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [You'll Regret That]
+[23:53:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:53:56] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 0 and chunkZ -459...
+[23:53:56] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_builtin_custom_loot at {"x": -21, "y": 0, "z": -7339}...
+[23:53:59] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_builtin_custom_loot at {"x": -21, "y": 0, "z": -7339}.
+[23:53:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2786ms behind, skipping 55 tick(s)
+[23:53:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lancelot_117 moved too quickly! 5.343544766438754,-1.5009965913836893,-8.5186476651661
+[23:54:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:54:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:54:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[23:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Lancelot_117]
+[23:55:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[23:55:37] [Server thread/INFO] [antiqueatlas]: Created new marker #2"integration.antiqueatlas.marker.ebwizardry.library_ruins"@(85, -7443)
+[23:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Lancelot_117]
+[23:56:04] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported Lancelot_117 to CREISIPAPU]

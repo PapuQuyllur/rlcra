@@ -12,3 +12,9 @@ StoneBoulder,120,129,-7296,-7287
 StonePlantMound2,315,328,-7424,-7412
 MysticalTree2,470,480,-7432,-7422
 MysticalTree2,421,431,-7509,-7499
+StonePlantBoulder,-2,8,-7266,-7256
+StoneBoulder,34,43,-7266,-7257
+ShrineSmallAir,-146,-138,-7267,-7259
+StonePlantMound3,-19,-8,-7364,-7355
+ElvenPond,35,64,-7368,-7338
+DinosaurSkull,149,160,-7387,-7368
