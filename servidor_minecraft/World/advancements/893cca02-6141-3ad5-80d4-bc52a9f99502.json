@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-02 23:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-08-01 22:41:15 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-01 23:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-08-02 23:23:37 +0000"
     },
     "done": true
   },
@@ -415,6 +427,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-02 23:23:02 +0000",
       "cooked_mutton": "2025-08-01 23:12:56 +0000",
       "cooked_beef": "2025-08-01 22:39:46 +0000",
       "cooked_chicken": "2025-08-01 23:24:04 +0000"
@@ -520,6 +533,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-08-01 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-02 23:25:00 +0000"
     },
     "done": true
   },
@@ -818,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-02 23:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-08-01 22:32:21 +0000"
@@ -941,6 +966,12 @@
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2025-08-01 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-08-02 23:25:00 +0000"
     },
     "done": true
   },
