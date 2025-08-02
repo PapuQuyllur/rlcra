@@ -1,4 +1,249 @@
 {
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-08-02 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-08-02 23:45:03 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_nunchaku": {
+    "criteria": {
+      "has_stick": "2025-08-02 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-02 23:33:18 +0000",
+      "iron_leggings": "2025-08-02 23:33:18 +0000",
+      "iron_helmet": "2025-08-02 23:33:18 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_spear": {
+    "criteria": {
+      "has_stone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-08-02 23:35:52 +0000",
+      "savanna": "2025-08-02 23:31:14 +0000",
+      "plains": "2025-08-02 23:32:22 +0000",
+      "extreme_hills": "2025-08-02 23:31:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-02 23:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-08-02 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-02 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-02 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-02 23:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-08-02 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-02 23:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-02 23:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-02 23:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-08-02 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-02 23:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-08-02 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_nunchaku": {
+    "criteria": {
+      "has_stone": "2025-08-02 23:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-02 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-08-02 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-08-02 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-08-02 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-02 23:32:51 +0000"
@@ -17,15 +262,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
-      "has_stick": "2025-08-02 23:32:51 +0000"
+      "has_light_gray_wool": "2025-08-02 23:39:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+      "entered_water": "2025-08-02 23:39:20 +0000"
     },
     "done": true
   },
@@ -41,9 +286,21 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:wood_nunchaku": {
+  "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
-      "has_stick": "2025-08-02 23:32:51 +0000"
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-08-02 23:45:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
     },
     "done": true
   },
@@ -53,29 +310,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "iron_chestplate": "2025-08-02 23:33:18 +0000",
-      "iron_leggings": "2025-08-02 23:33:18 +0000",
-      "iron_helmet": "2025-08-02 23:33:18 +0000"
+      "cooked_mutton": "2025-08-02 23:42:23 +0000"
     },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:stone_spear": {
-    "criteria": {
-      "has_stone": "2025-08-02 23:33:52 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-08-02 23:32:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-08-02 23:33:52 +0000"
     },
     "done": true
   },
@@ -85,51 +328,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-08-02 23:33:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "savanna": "2025-08-02 23:31:14 +0000",
-      "plains": "2025-08-02 23:32:22 +0000",
-      "extreme_hills": "2025-08-02 23:31:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-08-02 23:34:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-08-02 23:32:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-08-02 23:32:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-08-02 23:33:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-02 23:33:52 +0000"
     },
@@ -141,9 +346,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
-      "has_stick": "2025-08-02 23:32:51 +0000"
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
     },
     "done": true
   },
@@ -153,15 +358,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
-      "has_stone_pickaxe": "2025-08-02 23:34:02 +0000"
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_cobblestone": "2025-08-02 23:33:52 +0000"
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:40:14 +0000"
     },
     "done": true
   },
@@ -174,12 +385,6 @@
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2025-08-02 23:32:51 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:stone_nunchaku": {
-    "criteria": {
-      "has_stone": "2025-08-02 23:33:52 +0000"
     },
     "done": true
   }

@@ -93,6 +93,7 @@
 -32 70 -692 -29 74 -689 StoneGrill.tml
 -32 86 -770 -25 89 -765 PumpkinField.tml
 -27 67 152 -22 78 161 VanillaVillageChurch-r.tml
+16 70 -7099 21 81 -7090 VanillaVillageChurch-p.tml
 16 81 -224 23 88 -217 Outcrop.tml
 24 70 394 28 78 398 SmallWell.tml
 26 69 323 30 75 326 StonePillar.tml
@@ -101,6 +102,7 @@
 60 63 224 72 104 236 BaloonLow.tml
 64 71 -741 68 76 -735 VanillaVillageHut-r.tml
 66 64 152 68 68 155 SkeletonHeadStatue.tml
+88 63 -7101 91 67 -7098 StoneGrill.tml
 92 46 -670 118 58 -662 shipwreck.tml
 105 77 -7350 113 86 -7342 LargeStoneTwoStoryHouse.tml
 106 66 355 118 111 367 TowerEasy.tml

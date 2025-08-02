@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "b21e6f6b-50a3-3a3f-bf0a-64e1178b562b",
+    "name": "Lancelot_117",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "cf33258a-1264-3ee0-88b5-b04949451580",
     "name": "Floppapan",
     "level": 4,
