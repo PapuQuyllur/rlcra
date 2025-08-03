@@ -141,3 +141,28 @@
 [00:46:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [00:55:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
 [00:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[00:58:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[01:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned
+[01:02:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:02:05] [Thread-205/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[01:03:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned
+[01:03:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:03:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[01:04:38] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[01:04:38] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[01:04:38] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[01:04:38] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[01:04:38] [Server thread/INFO] [Meson ASM]: Patch result: true
+[01:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[01:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[01:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[01:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Xaphan
+[01:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was burnt to a crisp whilst fighting Xaphan
+[01:05:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:05:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:05:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[01:06:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[01:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was pummeled by Xaphan
+[01:07:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:07:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
