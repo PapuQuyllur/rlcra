@@ -488,6 +488,12 @@
     },
     "done": true
   },
+  "reskillable:main/attack_5": {
+    "criteria": {
+      "level_up": "2025-08-03 01:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-01 23:29:00 +0000"
