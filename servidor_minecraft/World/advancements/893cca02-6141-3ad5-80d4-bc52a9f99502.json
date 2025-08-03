@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-03 00:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-01 22:32:30 +0000"
@@ -819,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-08-03 00:37:36 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_hammer": {
     "criteria": {
       "has_iron": "2025-08-01 22:34:12 +0000"
@@ -1150,6 +1162,12 @@
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2025-08-01 22:42:46 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-08-03 00:42:03 +0000"
     },
     "done": true
   },

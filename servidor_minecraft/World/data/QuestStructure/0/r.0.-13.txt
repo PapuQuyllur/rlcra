@@ -220,3 +220,7 @@ StonePlantBoulder,-6,4,-7073,-7063
 StonePlantBoulder,-25,-15,-7024,-7014
 SmallFortRuinsJapanese,-88,-42,-7168,-7122
 StonePlantMound4,-111,-104,-7058,-7051
+StonePlantMound,373,378,-6698,-6693
+P_WitchDungeon,380,397,-6721,-6687
+StoneBoulder,116,125,-6763,-6754
+WoodThornBig,116,129,-6750,-6737
