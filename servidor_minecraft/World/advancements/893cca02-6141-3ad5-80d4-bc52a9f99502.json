@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-03 00:55:40 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2025-08-01 22:47:53 +0000"
@@ -263,6 +269,7 @@
       "cooked_mutton": "2025-08-01 23:12:56 +0000",
       "cooked_beef": "2025-08-01 22:39:46 +0000",
       "bread": "2025-08-03 00:32:20 +0000",
+      "cooked_rabbit": "2025-08-03 00:51:41 +0000",
       "cooked_chicken": "2025-08-01 23:24:04 +0000"
     },
     "done": false
@@ -593,6 +600,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-08-03 00:55:39 +0000",
       "zombie": "2025-08-01 22:54:51 +0000"
     },
     "done": false
