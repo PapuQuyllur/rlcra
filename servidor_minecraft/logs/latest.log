@@ -181,3 +181,14 @@
 [01:23:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
 [01:23:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Floppapan lost connection: Disconnected
 [01:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan left the game
+[01:52:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:52:45] [Server thread/INFO] [AUW]: Stopping DS...
+[01:52:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:52:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:52:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:52:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[01:52:45] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[01:52:45] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:52:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:52:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:52:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
