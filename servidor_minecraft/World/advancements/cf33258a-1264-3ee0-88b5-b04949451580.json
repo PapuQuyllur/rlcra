@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-04 01:29:14 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:gold_hammer": {
     "criteria": {
       "has_gold": "2025-08-03 00:03:19 +0000"

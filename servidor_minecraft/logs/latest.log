@@ -3789,3 +3789,108 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:18:44] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [01:18:44] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [01:18:44] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[01:22:09] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Sharknado In Dimension: 0 Duration: 60secs
+[01:22:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> QUE
+[01:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ptm
+[01:22:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> me cague
+[01:22:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> tp
+[01:22:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Roa
+[01:22:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> NOOO
+[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:22:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> verga
+[01:22:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> coso
+[01:22:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:22:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> funciona el keepinventory?
+[01:22:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> si
+[01:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> creo
+[01:23:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:23:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Roa  Lvl 10
+[01:23:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> no
+[01:23:09] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Sharknado
+[01:23:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:23:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:23:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:23:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:23:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:23:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:23:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule keepInventory has been updated to true
+[01:23:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[01:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:23:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:23:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:23:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:23:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -12.470598582868433,-0.5101250000000164,-0.743639631537917
+[01:23:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:23:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:23:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:23:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:23:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:24:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:24:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[01:24:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Roa  Lvl 9
+[01:24:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:24:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:24:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[01:24:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:24:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:24:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:24:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[01:24:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Roa  Lvl 9
+[01:24:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:24:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:24:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:24:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:24:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:24:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> arriba
+[01:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:24:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Roa  Lvl 10
+[01:25:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:25:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:25:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[01:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> bicho de mierda
+[01:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:25:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:26:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:26:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> le pegamos mil golpes y no se muere
+[01:26:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Creative Mode]
+[01:26:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Survival Mode]
+[01:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> hay 3...
+[01:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[01:26:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:26:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> duerme
+[01:26:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> como mierda se pelea con esto
+[01:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> real
+[01:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[01:27:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:27:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> uno se fue
+[01:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Creative Mode]
+[01:27:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Set own game mode to Creative Mode]
+[01:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Survival Mode]
+[01:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Set own game mode to Survival Mode]
+[01:28:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> s me borrlo todo
+[01:28:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> tristeza absoluta
+[01:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> bichos de mrd
+[01:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> q tenias
+[01:29:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[01:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> quedatelo
+[01:29:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ponte hierro
+[01:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> puto sharknado
