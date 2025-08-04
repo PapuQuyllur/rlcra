@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-04 23:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-02 23:35:35 +0000"
@@ -632,7 +638,8 @@
     "criteria": {
       "skeleton": "2025-08-03 00:55:39 +0000",
       "zombie": "2025-08-01 22:54:51 +0000",
-      "creeper": "2025-08-04 02:50:03 +0000"
+      "creeper": "2025-08-04 02:50:03 +0000",
+      "enderman": "2025-08-04 23:15:04 +0000"
     },
     "done": false
   },

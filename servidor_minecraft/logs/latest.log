@@ -3748,3 +3748,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:08:12] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [23:08:12] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [23:08:12] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[23:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[23:10:48] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[23:10:48] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[23:10:48] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:10:48] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[23:10:48] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:13:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Enderman
+[23:13:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:14:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[23:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Wraith  Lvl 2
+[23:17:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:18:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Cover Me With Diamonds]
+[23:18:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
