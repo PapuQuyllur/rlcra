@@ -3926,3 +3926,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:31:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [03:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Grue  Lvl 2
 [03:32:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:34:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[03:34:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:36:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[03:36:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:37:45] [Server thread/INFO] [Scaling Health]: Blight Cave Spider was killed by Floppapan
+[03:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to Floppapan: voy a dormir w
+[03:41:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Floppapan lost connection: Disconnected
+[03:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan left the game
+[03:41:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:41:17] [Server thread/INFO] [AUW]: Stopping DS...
+[03:41:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:41:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:41:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:41:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[03:41:17] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[03:41:17] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:41:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:41:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:41:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
