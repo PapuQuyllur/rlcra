@@ -224,3 +224,7 @@ StonePlantMound,373,378,-6698,-6693
 P_WitchDungeon,380,397,-6721,-6687
 StoneBoulder,116,125,-6763,-6754
 WoodThornBig,116,129,-6750,-6737
+DinosaurSkull,65,84,-6980,-6969
+StoneBoulder,71,80,-6869,-6860
+ClayWaterMound,28,36,-7004,-6997
+StonePlantMound2,23,35,-6809,-6796

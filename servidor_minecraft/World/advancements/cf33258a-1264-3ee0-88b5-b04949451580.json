@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-08-02 23:33:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-08-02 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-02 23:33:55 +0000"
     },
     "done": true
   },
@@ -233,27 +233,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-08-02 23:25:46 +0000"
-    },
-    "done": true
-  },
   "mujmajnkraftsbettersurvival:stone_nunchaku": {
     "criteria": {
       "has_stone": "2025-08-02 23:21:51 +0000"
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:gold_spear": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_gold": "2025-08-03 00:03:19 +0000"
+      "has_stone": "2025-08-02 23:25:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-08-02 23:29:40 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_spear": {
+    "criteria": {
+      "has_gold": "2025-08-03 00:03:19 +0000"
     },
     "done": true
   },
@@ -305,12 +305,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2025-08-03 00:08:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-02 23:21:51 +0000"
@@ -320,6 +314,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-08-02 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 00:08:37 +0000"
     },
     "done": true
   },
@@ -410,15 +410,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-08-03 00:11:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-08-02 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-03 00:11:22 +0000"
     },
     "done": true
   },
@@ -464,15 +464,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2025-08-03 00:03:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 23:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-08-03 00:03:22 +0000"
     },
     "done": true
   },
@@ -500,15 +500,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-03 00:08:37 +0000"
-    },
-    "done": true
-  },
   "mujmajnkraftsbettersurvival:wood_spear": {
     "criteria": {
       "has_stick": "2025-08-02 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 00:08:37 +0000"
     },
     "done": true
   },
@@ -542,15 +542,15 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:gold_battleaxe": {
-    "criteria": {
-      "has_gold": "2025-08-03 00:03:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-08-02 23:29:40 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_battleaxe": {
+    "criteria": {
+      "has_gold": "2025-08-03 00:03:19 +0000"
     },
     "done": true
   },
@@ -572,15 +572,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-03 00:03:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 23:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-03 00:03:19 +0000"
     },
     "done": true
   },
@@ -662,15 +662,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-02 23:34:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-08-02 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-02 23:34:04 +0000"
     },
     "done": true
   },
@@ -821,15 +821,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_lapis": "2025-08-03 00:46:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-02 23:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2025-08-03 00:46:05 +0000"
     },
     "done": true
   },
@@ -924,15 +924,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stonebrick": {
-    "criteria": {
-      "has_stone": "2025-08-02 23:25:46 +0000"
-    },
-    "done": true
-  },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2025-08-02 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-08-02 23:25:46 +0000"
     },
     "done": true
   },
