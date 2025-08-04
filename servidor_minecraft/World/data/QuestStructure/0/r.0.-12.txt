@@ -1,1 +1,15 @@
 StoneBoulder,335,344,-6655,-6646
+StonePlantMound3,399,408,-6635,-6624
+StonePlantMound,422,427,-6619,-6614
+StoneLeafMound,353,360,-6520,-6511
+DinosaurSkull,434,453,-6462,-6451
+AbandonedWoodTower,269,299,-6489,-6453
+StonePlantMound1,76,82,-6570,-6564
+RLCraft_SmallUndergroundSkeleton,116,124,-6424,-6416
+StoneLeafMound,67,74,-6469,-6460
+P_WitchDungeon,28,62,-6546,-6529
+DinosaurSkeleton,-1,8,-6675,-6629
+StonePlantMound,10,15,-6612,-6607
+StonePlantMound,-44,-39,-6389,-6384
+RLCraft_SmallUndergroundSkeleton,-9,-1,-6238,-6230
+StonePlantBoulder,41,51,-6228,-6218
