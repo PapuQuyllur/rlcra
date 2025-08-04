@@ -25,3 +25,7 @@ StonePlantMound,226,231,-7519,-7514
 StonePlantMound3,210,219,-7558,-7547
 RLCraft_BasicCaveSpider,133,133,-7589,-7589
 RLCraft_UndergroundRuin1,127,136,-7595,-7586
+VillageWoodMill,-195,-179,-7386,-7373
+P_VillageHouse,-211,-200,-7408,-7399
+RLCraft_Vineyard,-195,-175,-7363,-7335
+StonePlantMound,-179,-174,-7393,-7388
