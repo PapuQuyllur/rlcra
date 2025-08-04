@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-04 23:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 22:53:04 +0000"
@@ -367,6 +373,12 @@
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2025-08-01 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-04 23:21:07 +0000"
     },
     "done": true
   },
@@ -642,6 +654,12 @@
       "enderman": "2025-08-04 23:15:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-04 23:21:07 +0000"
+    },
+    "done": true
   },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
@@ -1174,6 +1192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-04 23:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-08-01 22:33:20 +0000",
@@ -1213,6 +1237,12 @@
   "ebwizardry:handbook/spells": {
     "criteria": {
       "criteria_0": "2025-08-02 23:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-04 23:20:32 +0000"
     },
     "done": true
   },
@@ -1381,6 +1411,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-01 22:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-04 23:21:07 +0000"
     },
     "done": true
   },
