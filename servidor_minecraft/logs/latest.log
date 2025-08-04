@@ -3773,3 +3773,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:22:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [23:25:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Wraith  Lvl 2
 [23:25:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Swashbuckler]
+[23:33:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Wraith  Lvl 2
+[23:33:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:33:34] [Thread-73/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:34:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Wraith  Lvl 2
+[23:34:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Wraith  Lvl 2
+[23:34:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Wraith  Lvl 2
+[23:35:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:36:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was blown up by Wraith  Lvl 2
+[23:36:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Wraith  Lvl 2
+[23:36:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:38:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Creative Mode]
+[23:38:47] [Server thread/INFO] [Scaling Health]: Blight Wraith  Lvl 2 was killed by CREISIPAPU
