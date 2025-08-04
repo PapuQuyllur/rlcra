@@ -316,6 +316,12 @@
     },
     "done": true
   },
+  "spartanweaponry:hammer": {
+    "criteria": {
+      "craft": "2025-08-04 02:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-02 23:35:35 +0000"
@@ -409,6 +415,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2025-08-04 02:55:25 +0000"
     },
     "done": true
   },
