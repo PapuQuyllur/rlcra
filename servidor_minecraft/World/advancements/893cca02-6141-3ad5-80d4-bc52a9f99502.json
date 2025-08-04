@@ -762,6 +762,15 @@
     },
     "done": true
   },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "snowball": "2025-08-04 23:03:28 +0000",
+      "magic_missile": "2025-08-04 23:06:17 +0000",
+      "mind_trick": "2025-08-04 23:05:59 +0000",
+      "smoke_bomb": "2025-08-04 23:02:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-01 22:34:10 +0000"
@@ -1038,6 +1047,12 @@
     },
     "done": true
   },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2025-08-04 23:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-08-02 23:25:00 +0000"
@@ -1143,6 +1158,12 @@
   "spartanweaponry:boomerang": {
     "criteria": {
       "craft": "2025-08-01 22:47:57 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-08-04 23:02:57 +0000"
     },
     "done": true
   },
