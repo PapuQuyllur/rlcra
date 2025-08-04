@@ -3798,3 +3798,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:36:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [23:38:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Creative Mode]
 [23:38:47] [Server thread/INFO] [Scaling Health]: Blight Wraith  Lvl 2 was killed by CREISIPAPU
+[23:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Survival Mode]
+[23:40:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[23:40:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:41:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:41:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Lux Spectre  Lvl 2
+[23:41:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:43:48] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
