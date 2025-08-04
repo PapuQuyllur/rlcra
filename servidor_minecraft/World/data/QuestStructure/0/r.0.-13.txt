@@ -301,3 +301,8 @@ StoneMazePath,78,80,-6688,-6686
 StoneMazePath,81,83,-6691,-6689
 StoneMazePath,81,83,-6688,-6686
 StoneMaze,72,107,-6721,-6686
+RLCraft_DecentSpider,-29,-29,-6983,-6983
+RLCraft_UndergroundRuin3,-32,-24,-6989,-6981
+StonePlantMound1,-37,-31,-6972,-6966
+StonePlantBoulder,-74,-64,-7017,-7007
+StonePlantMound4,-133,-126,-7009,-7002

@@ -18,3 +18,6 @@ ShrineSmallAir,-146,-138,-7267,-7259
 StonePlantMound3,-19,-8,-7364,-7355
 ElvenPond,35,64,-7368,-7338
 DinosaurSkull,149,160,-7387,-7368
+MysticalTree1,156,169,-7516,-7505
+ShrineSmallAir,257,265,-7505,-7497
+StonePlantBoulder,-47,-37,-7506,-7496

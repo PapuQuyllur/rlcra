@@ -98,6 +98,7 @@
 -46 70 308 -39 74 315 TinyFarmField.tml
 -43 62 -7458 -41 66 -7455 SkeletonHeadStatue.tml
 -38 62 -7361 -30 72 -7353 LargeStoneHouseWBasement.tml
+-32 50 -7537 -20 71 -7526 JungleTreePlatform_edit.tml
 -32 86 -770 -25 89 -765 PumpkinField.tml
 -32 70 -692 -29 74 -689 StoneGrill.tml
 -27 67 152 -22 78 161 VanillaVillageChurch-r.tml
@@ -128,6 +129,7 @@
 140 63 -6651 148 73 -6643 TallTower.tml
 149 93 -7457 157 101 -7446 MinersHut.tml
 160 35 44 186 47 52 shipwreck.tml
+172 53 -7535 179 63 -7528 BridgePilings-sm2.tml
 173 63 -7088 180 68 -7077 OldFoundation.tml
 175 63 -7006 183 72 -6998 LargeStoneTwoStoryHouse.tml
 183 73 -7247 187 75 -7243 EmeraldOreOutcrop.tml
