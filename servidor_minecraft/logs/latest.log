@@ -3913,3 +3913,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> afk
 [03:22:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
 [03:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[03:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Scarlet Banshee  Lvl 2
+[03:25:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:27:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[03:27:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[03:27:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[03:27:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[03:28:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Scarlet Banshee  Lvl 2
+[03:28:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:30:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[03:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[03:31:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Grue  Lvl 2
+[03:32:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
