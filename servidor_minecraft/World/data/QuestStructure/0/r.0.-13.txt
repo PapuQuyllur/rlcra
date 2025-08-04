@@ -306,3 +306,11 @@ RLCraft_UndergroundRuin3,-32,-24,-6989,-6981
 StonePlantMound1,-37,-31,-6972,-6966
 StonePlantBoulder,-74,-64,-7017,-7007
 StonePlantMound4,-133,-126,-7009,-7002
+RLCraft_DecentSkeleton,-210,-210,-6999,-6999
+RLCraft_UndergroundRuin2,-212,-205,-7004,-6994
+RLCraft_BasicZombie,-232,-232,-7097,-7097
+RLCraft_UndergroundRuin1,-235,-226,-7103,-7094
+RLCraft_BasicSpider,-192,-192,-6830,-6830
+RLCraft_UndergroundRuin1,-195,-186,-6833,-6824
+StonePlantMound4,-141,-134,-6815,-6808
+SpiderPit,-122,-112,-6814,-6805

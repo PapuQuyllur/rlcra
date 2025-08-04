@@ -622,6 +622,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2025-08-04 02:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-08-02 23:22:15 +0000"

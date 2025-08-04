@@ -21,3 +21,7 @@ DinosaurSkull,149,160,-7387,-7368
 MysticalTree1,156,169,-7516,-7505
 ShrineSmallAir,257,265,-7505,-7497
 StonePlantBoulder,-47,-37,-7506,-7496
+StonePlantMound,226,231,-7519,-7514
+StonePlantMound3,210,219,-7558,-7547
+RLCraft_BasicCaveSpider,133,133,-7589,-7589
+RLCraft_UndergroundRuin1,127,136,-7595,-7586
