@@ -4,3 +4,25 @@
 [00:48:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
 [00:50:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2458ms behind, skipping 49 tick(s)
 [00:59:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:15:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:15:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [A Seedy Place]
+[01:25:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:29:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:29:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:29:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:29:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:29:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:29:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:30:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[01:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[01:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:30:30] [Server thread/INFO] [AUW]: Stopping DS...
+[01:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[01:30:30] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[01:30:30] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:30:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:30:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
