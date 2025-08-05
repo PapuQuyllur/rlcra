@@ -1342,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-05 00:08:49 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:gold_nunchaku": {
     "criteria": {
       "has_gold": "2025-08-01 22:53:04 +0000"
