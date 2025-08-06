@@ -3764,3 +3764,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:18:48] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [22:18:48] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [22:18:48] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[22:35:43] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
+[22:35:43] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
+[22:35:43] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
+[22:36:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[22:37:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[22:37:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[22:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Chupacabra  Lvl 2
+[22:41:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Violet Gnekk  Lvl 2
+[22:42:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:42:37] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[22:42:37] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
