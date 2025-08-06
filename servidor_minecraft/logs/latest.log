@@ -3776,3 +3776,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:42:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [22:42:37] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
 [22:42:37] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[22:45:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Chupacabra  Lvl 2
+[22:45:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:45:53] [Thread-67/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[22:47:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Verdant Chupacabra  Lvl 2
+[22:47:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:50:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Chupacabra  Lvl 2
+[22:50:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Grue  Lvl 2
+[22:51:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
