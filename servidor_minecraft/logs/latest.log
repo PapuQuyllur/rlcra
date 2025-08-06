@@ -3785,3 +3785,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:50:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [22:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Grue  Lvl 2
 [22:51:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:57:21] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
+[23:03:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[23:03:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
