@@ -3938,3 +3938,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:30:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [23:30:10] [Thread-214/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
 [23:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> lag
+[23:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> juju
+[23:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[23:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> nada
+[23:32:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[23:32:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:32:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> papu
+[23:32:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> qe
+[23:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> no nada
+[23:32:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> :,v
+[23:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> :v
+[23:34:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Wraamon  Lvl 2
+[23:34:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[23:36:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:37:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Argus  Lvl 2
+[23:37:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:37:32] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
