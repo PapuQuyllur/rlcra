@@ -3872,3 +3872,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:58:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [22:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was pummeled by Spriggan  Lvl 2
 [22:59:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:00:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Lux Spectre  Lvl 2
+[23:00:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:01:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was pummeled by Jengu  Lvl 2
+[23:01:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> tremendo palizon
+[23:02:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned
+[23:02:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> que'
+[23:02:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> estaba en tierra
+[23:03:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Smash and Bash!]
+[23:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Skeleton
+[23:04:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:04:41] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
+[23:05:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Lux Spectre  Lvl 2
+[23:05:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[23:07:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:08:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Lux Wraamon  Lvl 2
+[23:08:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Darkling  Lvl 2
+[23:11:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> alabestia
+[23:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> hay nieve
+[23:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> onde?
+[23:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> en casa
+[23:11:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> oye w
+[23:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> toma
+[23:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> agara la xp
+[23:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> y damelo
+[23:12:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ya tienes uno?
+[23:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> de que?
+[23:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> esto
+[23:12:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> como se hacia?
+[23:12:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> yo te lo hago
+[23:13:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> shift click para almacenar
+[23:13:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> good
+[23:16:17] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[23:16:17] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[23:16:17] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:16:17] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[23:16:17] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:16:54] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
+[23:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> cuantos tenes vos de cora
+[23:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> 3 extra
+[23:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> fijate si te sirve algo de la mochila
+[23:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> asi la llevo
+[23:18:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> t deje un escudo

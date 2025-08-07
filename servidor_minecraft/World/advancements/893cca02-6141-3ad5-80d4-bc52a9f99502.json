@@ -746,6 +746,12 @@
     },
     "done": true
   },
+  "spartanweaponry:mace": {
+    "criteria": {
+      "craft": "2025-08-07 23:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2025-08-01 22:34:51 +0000"
