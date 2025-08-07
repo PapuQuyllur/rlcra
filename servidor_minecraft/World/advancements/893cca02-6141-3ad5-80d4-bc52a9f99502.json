@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "spartanweaponry:quiver_light": {
+    "criteria": {
+      "quiver_arrow": "2025-08-07 23:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-08-01 22:32:21 +0000"
