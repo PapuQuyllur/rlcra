@@ -3840,3 +3840,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:36:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [22:39:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU tried to swim in lava to escape Volcan  Lvl 2
 [22:39:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:41:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Dark Wraamon  Lvl 3
+[22:41:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Calpod  Lvl 2
+[22:45:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:45:20] [Thread-132/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[22:45:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:45:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:45:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:47:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan died from hypothermia
+[22:47:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Chupacabra  Lvl 2
+[22:47:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:49:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Verdant Grue  Lvl 2
+[22:49:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:49:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> tenes antorcha
+[22:49:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> craftealas

@@ -175,10 +175,12 @@
 352 71 -7370 357 76 -7363 ZombieHut.tml
 361 63 -7134 373 85 -7122 BaloonVeryLow.tml
 365 63 -6628 376 68 -6621 OldFoundation.tml
+373 67 -6323 375 71 -6320 SkeletonHeadStatue.tml
 390 65 -6487 397 69 -6480 TinyFarmField.tml
 397 71 -6792 401 79 -6788 SmallWell.tml
 399 62 -6701 404 70 -6696 PillarBase.tml
 405 148 -7541 408 154 -7537 StonePillar.tml
+411 70 -6409 416 73 -6402 PumpkinField.tml
 424 64 -6878 428 66 -6874 EmeraldOreOutcrop.tml
 425 79 -7287 433 88 -7279 LargeStoneTwoStoryHouse.tml
 425 72 -6949 431 89 -6943 VanillaVillageWell-p.tml
@@ -188,7 +190,9 @@
 448 65 -7056 453 73 -7051 PillarBase.tml
 461 62 -7136 469 70 -7127 WoodHouse_Intact.tml
 478 78 -6527 486 88 -6519 LargeStoneHouseWBasement.tml
+483 77 -6348 491 83 -6340 ShortTower.tml
 486 124 -6632 488 128 -6629 SkeletonHeadStatue.tml
+492 78 -6445 505 87 -6432 VolcanicVent.tml
 493 63 -6826 505 117 -6814 BaloonHigh.tml
 506 61 -6985 514 70 -6977 LargeStoneTwoStoryHouse.tml
 507 48 -6823 543 59 -6812 SunkenShip-v3.tml
@@ -198,6 +202,8 @@
 545 64 -7549 555 81 -7539 WatchtowerRuined.tml
 548 67 -6903 561 82 -6892 StoneHouseM.tml
 565 60 -7073 577 131 -7061 GateUnderGlass.tml
+571 61 -6452 580 76 -6443 MoaiHead.tml
+572 111 -6338 577 119 -6333 PillarBase.tml
 591 102 -7625 596 114 -7620 FrozenBush.tml
 634 68 -7509 642 78 -7501 LargeStoneHouseWBasement.tml
 634 49 -6898 642 61 -6872 shipwreck.tml

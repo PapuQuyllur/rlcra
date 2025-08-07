@@ -1,1 +1,2 @@
 StoneBoulder,540,549,-6522,-6513
+StonePlantMound4,573,580,-6354,-6347
