@@ -13,3 +13,4 @@ StonePlantMound,10,15,-6612,-6607
 StonePlantMound,-44,-39,-6389,-6384
 RLCraft_SmallUndergroundSkeleton,-9,-1,-6238,-6230
 StonePlantBoulder,41,51,-6228,-6218
+ShrineSmallFire,388,398,-6454,-6444
