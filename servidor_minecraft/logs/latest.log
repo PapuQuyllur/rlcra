@@ -3754,3 +3754,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:53:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3382ms behind, skipping 67 tick(s)
 [21:58:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was shot by Skeleton
 [21:58:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[21:59:54] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
+[22:02:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Darkling  Lvl 2
+[22:02:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was shot by Skeleton
+[22:05:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Zombie
+[22:07:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
