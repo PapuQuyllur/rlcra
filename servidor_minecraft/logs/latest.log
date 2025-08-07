@@ -3856,3 +3856,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:49:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [22:49:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> tenes antorcha
 [22:49:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> craftealas
+[22:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> con el mechero
+[22:50:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> y s prenden
+[22:50:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ry
+[22:50:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ty*
+[22:54:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[22:55:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Grue  Lvl 2
+[22:55:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Spectre  Lvl 2
+[22:57:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:57:11] [Thread-154/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[22:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was pummeled by Spriggan  Lvl 2
+[22:57:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:58:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[22:58:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[22:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was pummeled by Spriggan  Lvl 2
+[22:59:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
