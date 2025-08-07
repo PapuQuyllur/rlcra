@@ -29,3 +29,4 @@ VillageWoodMill,-195,-179,-7386,-7373
 P_VillageHouse,-211,-200,-7408,-7399
 RLCraft_Vineyard,-195,-175,-7363,-7335
 StonePlantMound,-179,-174,-7393,-7388
+StonePlantMound1,423,429,-7533,-7527
