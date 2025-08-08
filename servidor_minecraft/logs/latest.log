@@ -3747,3 +3747,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:10:58] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [23:10:58] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [23:10:58] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU died from parasites
+[23:17:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:17:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[23:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[23:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:17:43] [Server thread/INFO] [AUW]: Stopping DS...
+[23:17:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:17:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:17:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:17:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[23:17:43] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[23:17:43] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:17:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
