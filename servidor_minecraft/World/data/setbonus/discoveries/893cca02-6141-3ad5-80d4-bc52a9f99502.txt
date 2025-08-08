@@ -1,2 +1,2 @@
-GBonus
-GBonus2
+SBonus
+SBonus2
