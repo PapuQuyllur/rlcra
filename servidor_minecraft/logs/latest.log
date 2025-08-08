@@ -3793,3 +3793,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [13:49:55] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [13:49:55] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [13:49:55] [Server thread/INFO] [Meson ASM]: Patch result: true
+[13:51:28] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[13:51:28] [Server thread/INFO] [RB-Transformer]:  - <init>
+[13:51:28] [Server thread/INFO] [RB-Transformer]:  - Done
+[13:51:28] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[13:51:28] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[13:51:28] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[13:56:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[13:56:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[13:56:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[13:56:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
