@@ -134,3 +134,10 @@
 [00:47:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
 [00:49:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Darkling  Lvl 2
 [00:49:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:51:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was pummeled by Jengu  Lvl 2
+[00:51:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:54:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Roc  Lvl 2
+[00:54:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:55:50] [Server thread/INFO] [Scaling Health]: Blight Roc  Lvl 2 was killed by Floppapan
+[00:56:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Floppapan lost connection: Disconnected
+[00:56:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan left the game
