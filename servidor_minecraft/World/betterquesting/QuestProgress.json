@@ -1256,11 +1256,26 @@
     },
     "81:10": {
       "questID:3": 81,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "893cca02-6141-3ad5-80d4-bc52a9f99502",
+          "timestamp:4": 1754612041021
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "893cca02-6141-3ad5-80d4-bc52a9f99502"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "893cca02-6141-3ad5-80d4-bc52a9f99502"
+            }
+          },
           "index:3": 1,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -1385,11 +1400,26 @@
     },
     "89:10": {
       "questID:3": 89,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "893cca02-6141-3ad5-80d4-bc52a9f99502",
+          "timestamp:4": 1754612041021
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "893cca02-6141-3ad5-80d4-bc52a9f99502"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "893cca02-6141-3ad5-80d4-bc52a9f99502"
+            }
+          },
           "index:3": 1,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -4853,12 +4883,18 @@
           "claimed:1": 0,
           "uuid:8": "cf33258a-1264-3ee0-88b5-b04949451580",
           "timestamp:4": 1754275808473
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "uuid:8": "893cca02-6141-3ad5-80d4-bc52a9f99502",
+          "timestamp:4": 1754612041021
         }
       },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
-            "0:8": "cf33258a-1264-3ee0-88b5-b04949451580"
+            "0:8": "893cca02-6141-3ad5-80d4-bc52a9f99502",
+            "1:8": "cf33258a-1264-3ee0-88b5-b04949451580"
           },
           "userProgress:9": {
             "0:10": {
@@ -4866,6 +4902,12 @@
                 "0:3": 1
               },
               "uuid:8": "cf33258a-1264-3ee0-88b5-b04949451580"
+            },
+            "1:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "893cca02-6141-3ad5-80d4-bc52a9f99502"
             }
           },
           "index:3": 0,
