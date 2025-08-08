@@ -1,1 +1,23 @@
 [00:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> está bajo tierra
+[00:00:44] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
+[00:05:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[00:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned whilst trying to escape Cave Spider
+[00:05:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:05:28] [Thread-274/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[00:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[00:08:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ten cuidao
+[00:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ta lleno de mobs
+[00:08:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ponte
+[00:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> la corona
+[00:09:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by CREISIPAPU
+[00:09:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:09:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> XDDD
+[00:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> tp
+[00:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported Floppapan to CREISIPAPU]
+[00:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU drowned whilst trying to escape Cave Spider
+[00:09:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[00:09:54] [Thread-283/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[00:09:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[00:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned
+[00:10:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported Floppapan to CREISIPAPU]
