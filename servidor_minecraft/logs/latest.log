@@ -128,3 +128,9 @@
 [00:36:50] [Thread-337/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
 [00:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Banshee  Lvl 2
 [00:39:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:41:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[00:42:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:47:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[00:47:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[00:49:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Darkling  Lvl 2
+[00:49:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
