@@ -497,10 +497,18 @@
     },
     "30:10": {
       "questID:3": 30,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "893cca02-6141-3ad5-80d4-bc52a9f99502",
+          "timestamp:4": 1754755209092
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "893cca02-6141-3ad5-80d4-bc52a9f99502"
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:location"
         }

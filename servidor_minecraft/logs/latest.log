@@ -3878,3 +3878,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [15:46:11] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
 [15:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Wraamon  Lvl 3
 [15:52:44] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:59:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [Enshrined]
+[15:59:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[15:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was turned into KFC by a dragon
+[15:59:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:59:55] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@16793833)
+[15:59:55] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[15:59:55] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[15:59:55] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[15:59:55] [Server thread/INFO] [antiqueatlas]: Exiting
+[15:59:55] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU left the overworld
+[16:00:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:00:04] [Server thread/INFO] [antiqueatlas]: Entering
+[16:00:04] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU teleported to the the_nether
+[16:00:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [We Need to Go Deeper]
+[16:00:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[16:00:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[16:00:04] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for CREISIPAPU
+[16:00:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8644ms behind, skipping 172 tick(s)
+[16:00:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved too quickly! 1.9552244794008402,0.17081285826087367,10.065462517972264
+[16:00:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved too quickly! -23.385235172019236,5.203264290327823,-9.16828180668017
+[16:00:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -187.41016744858953,8.0,5970.846746054177
+[16:00:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU tried to swim in lava to escape Astaroth  Lvl 3
+[16:00:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:00:25] [Thread-169/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[16:00:26] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[16:00:26] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:00:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:03:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:03:39] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[16:03:39] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[16:03:39] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[16:03:39] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[16:03:39] [Server thread/INFO] [Meson ASM]: Patch result: true
+[16:03:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:05:00] [Server thread/INFO] [antiqueatlas]: Created new marker #9"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(500, -6286)
+[16:05:04] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[16:05:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! 2.01096063356448,1.3015347127298327,9.750683761017171
+[16:05:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3976ms behind, skipping 79 tick(s)

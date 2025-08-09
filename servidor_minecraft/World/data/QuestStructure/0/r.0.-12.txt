@@ -16,3 +16,6 @@ StonePlantBoulder,41,51,-6228,-6218
 ShrineSmallFire,388,398,-6454,-6444
 WoodWallRemains,393,421,-6431,-6423
 StoneBoulder,503,512,-6335,-6326
+StonePlantMound1,382,388,-6294,-6288
+CorruptedEnderTree,396,407,-6279,-6266
+RLCraft_LargeUndergroundTown,371,484,-6332,-6195

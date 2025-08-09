@@ -1,2 +1,4 @@
 StoneBoulder,540,549,-6522,-6513
 StonePlantMound4,573,580,-6354,-6347
+MysticalTree,533,549,-6291,-6276
+StoneLeafMound,589,596,-6322,-6313
