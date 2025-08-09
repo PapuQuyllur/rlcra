@@ -164,10 +164,12 @@
 265 68 -7714 271 73 -7709 VanillaVillageCobbleHouse-r.tml
 270 68 -6592 275 97 -6587 GoldWell.tml
 274 73 -7261 282 79 -7253 ShortTower.tml
+278 62 -6184 286 72 -6176 LargeStoneHouseWBasement.tml
 298 81 -6307 306 87 -6299 LargeStoneHouse.tml
 302 68 -7619 312 74 -7611 VanillaVillageForge-r.tml
 308 68 -6702 315 71 -6697 PumpkinField.tml
 313 67 -6796 319 72 -6791 VanillaVillageCobbleHouse-r.tml
+323 55 -6077 330 64 -6070 BridgePilings-small.tml
 333 62 -6889 342 70 -6874 Archway.tml
 338 162 -7437 345 165 -7432 PumpkinField.tml
 340 68 -6964 347 72 -6957 TinyFarmField.tml
@@ -182,6 +184,7 @@
 390 65 -6487 397 69 -6480 TinyFarmField.tml
 397 71 -6792 401 79 -6788 SmallWell.tml
 399 62 -6701 404 70 -6696 PillarBase.tml
+403 64 -6142 408 69 -6137 VanillaVillageLadder-p.tml
 405 148 -7541 408 154 -7537 StonePillar.tml
 411 70 -6409 416 73 -6402 PumpkinField.tml
 424 64 -6878 428 66 -6874 EmeraldOreOutcrop.tml
@@ -200,6 +203,7 @@
 493 63 -6826 505 117 -6814 BaloonHigh.tml
 506 61 -6985 514 70 -6977 LargeStoneTwoStoryHouse.tml
 507 48 -6823 543 59 -6812 SunkenShip-v3.tml
+519 82 -6012 527 88 -6004 ShortTower.tml
 520 72 -7398 527 79 -7391 Outcrop.tml
 526 69 -7306 529 73 -7303 StoneGrill.tml
 529 61 -6169 538 69 -6154 Archway.tml
@@ -211,6 +215,7 @@
 572 111 -6338 577 119 -6333 PillarBase.tml
 591 102 -7625 596 114 -7620 FrozenBush.tml
 603 62 -6239 611 68 -6231 LargeStoneHouse.tml
+627 70 -6062 634 77 -6055 Outcrop.tml
 634 49 -6898 642 61 -6872 shipwreck.tml
 634 68 -7509 642 78 -7501 LargeStoneHouseWBasement.tml
 636 63 -7324 640 65 -7320 EmeraldOreOutcrop.tml
