@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-09 15:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-01 22:34:51 +0000"
@@ -736,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-09 15:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-01 22:34:10 +0000"
@@ -1158,6 +1170,12 @@
   "mujmajnkraftsbettersurvival:wood_hammer": {
     "criteria": {
       "has_stick": "2025-08-01 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2025-08-09 15:22:15 +0000"
     },
     "done": true
   },
