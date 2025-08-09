@@ -19,3 +19,11 @@ StoneBoulder,503,512,-6335,-6326
 StonePlantMound1,382,388,-6294,-6288
 CorruptedEnderTree,396,407,-6279,-6266
 RLCraft_LargeUndergroundTown,371,484,-6332,-6195
+MeteorSite,281,296,-6403,-6373
+RLCraft_UndergroundFarm,271,314,-6420,-6378
+SmallAbandonedMine,316,341,-6394,-6379
+RLCraft_BasicCaveSpider,288,288,-6322,-6322
+RLCraft_UndergroundRuin1,282,291,-6328,-6319
+StonePlantMound2,205,217,-6317,-6304
+RLCraft_SmallUndergroundSkeleton,315,323,-6263,-6255
+DinosaurSkeleton,325,334,-6284,-6238

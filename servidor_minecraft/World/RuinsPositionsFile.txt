@@ -151,6 +151,7 @@
 175 63 -7006 183 72 -6998 LargeStoneTwoStoryHouse.tml
 183 73 -7247 187 75 -7243 EmeraldOreOutcrop.tml
 191 61 -7698 197 78 -7692 VanillaVillageWell-p.tml
+203 82 -6258 208 87 -6251 ZombieHut.tml
 216 63 -7615 228 87 -7603 Tower-ruined-short.tml
 217 62 -6820 226 68 -6814 PortalShrine.tml
 222 89 -6504 226 97 -6500 SmallWell.tml
@@ -163,6 +164,7 @@
 265 68 -7714 271 73 -7709 VanillaVillageCobbleHouse-r.tml
 270 68 -6592 275 97 -6587 GoldWell.tml
 274 73 -7261 282 79 -7253 ShortTower.tml
+298 81 -6307 306 87 -6299 LargeStoneHouse.tml
 302 68 -7619 312 74 -7611 VanillaVillageForge-r.tml
 308 68 -6702 315 71 -6697 PumpkinField.tml
 313 67 -6796 319 72 -6791 VanillaVillageCobbleHouse-r.tml
