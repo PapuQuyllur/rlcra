@@ -1,0 +1,8 @@
+MeteorSite,743,773,-7730,-7715
+StonePlantBoulder,771,781,-7707,-7697
+SmallWoodenCottage1,777,783,-7696,-7685
+StonePlantMound,614,619,-7771,-7766
+RLCraft_DecentWitch,594,594,-7824,-7824
+RLCraft_UndergroundRuin2,592,599,-7829,-7819
+IceThorn,553,579,-7859,-7844
+PeacefulCrypt,526,550,-7995,-7979

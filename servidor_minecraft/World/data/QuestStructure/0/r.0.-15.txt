@@ -1,1 +1,9 @@
 StonePlantBoulder,251,261,-7710,-7700
+RLCraft_BasicSkeleton,476,476,-7833,-7833
+RLCraft_UndergroundRuin1,470,479,-7839,-7830
+PeacefulCrypt,487,511,-7819,-7803
+StonePlantBoulder,431,441,-7927,-7917
+ClayWaterMound1,422,433,-7983,-7973
+StonePlantMound1,321,327,-8030,-8024
+StoneBoulder,431,440,-8067,-8058
+ShrineSmallEarth,270,282,-8024,-8012

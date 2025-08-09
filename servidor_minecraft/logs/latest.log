@@ -4070,3 +4070,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:32:58] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
 [17:33:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
 [17:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[17:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Banshee  Lvl 2
+[17:39:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:44:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Tremor  Lvl 2
+[17:44:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:45:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Warg
+[17:45:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned whilst trying to escape Skeleton
+[17:46:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:52:29] [Server thread/INFO] [antiqueatlas]: Created new marker #10"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(619, -7826)
+[17:53:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[17:55:56] [Server thread/INFO] [antiqueatlas]: Created new marker #11"integration.antiqueatlas.marker.ebwizardry.library_ruins"@(458, -7996)
+[17:56:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[17:56:29] [Server thread/INFO] [antiqueatlas]: Created new marker #12"integration.antiqueatlas.marker.ebwizardry.shrine"@(278, -7923)
+[17:56:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[17:57:07] [Server thread/INFO] [antiqueatlas]: Created new marker #13"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(307, -8127)
