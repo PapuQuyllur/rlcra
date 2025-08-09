@@ -4095,3 +4095,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:13:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [18:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
 [18:16:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[18:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned whilst trying to escape Zombie
+[18:19:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[18:35:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan starved to death
