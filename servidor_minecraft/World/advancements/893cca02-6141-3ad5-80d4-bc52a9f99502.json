@@ -341,6 +341,7 @@
       "cooked_mutton": "2025-08-01 23:12:56 +0000",
       "cooked_beef": "2025-08-01 22:39:46 +0000",
       "bread": "2025-08-03 00:32:20 +0000",
+      "golden_apple": "2025-08-09 16:30:20 +0000",
       "cooked_rabbit": "2025-08-03 00:51:41 +0000",
       "cooked_chicken": "2025-08-01 23:24:04 +0000"
     },
@@ -589,6 +590,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-01 22:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-09 16:28:22 +0000"
     },
     "done": true
   },
@@ -1323,6 +1330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-08-09 16:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 22:34:12 +0000"
@@ -1741,6 +1754,12 @@
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
       "has_stonebrick": "2025-08-04 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2025-08-09 16:29:03 +0000"
     },
     "done": true
   },

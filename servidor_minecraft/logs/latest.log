@@ -3983,3 +3983,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [16:25:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
 [16:25:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [16:25:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Cave Spider
+[16:26:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Battletower Golem
+[16:27:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:28:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[16:28:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Battletower Golem
+[16:28:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:28:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Battletower Golem
+[16:29:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[16:29:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[16:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:29:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:30:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[16:30:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[16:30:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[16:30:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[16:30:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[16:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan blew up
+[16:31:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Tremor  Lvl 3
+[16:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:31:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:31:40] [Thread-234/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[16:31:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:32:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[16:32:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
