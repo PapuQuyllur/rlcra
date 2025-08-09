@@ -3873,3 +3873,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [15:45:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [15:45:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [15:45:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[15:45:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [Cover Me With Diamonds]
+[15:45:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[15:46:11] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
+[15:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Wraamon  Lvl 3
+[15:52:44] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
