@@ -1,1 +1,10 @@
 [00:00:19] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:08:32] [Server thread/INFO] [AUW]: Stopping DS...
+[00:08:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:08:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:08:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:08:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[00:08:32] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[00:08:32] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:08:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
