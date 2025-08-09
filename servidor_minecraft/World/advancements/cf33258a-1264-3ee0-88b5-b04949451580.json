@@ -1106,6 +1106,12 @@
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "craft": "2025-08-09 16:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-01 23:28:19 +0000"
