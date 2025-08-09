@@ -4020,3 +4020,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [16:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [Halberdier]
 [16:45:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [16:54:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Ostimien  Lvl 2
+[16:56:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:56:39] [Thread-271/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[16:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was turned into KFC by a dragon
+[16:57:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was incinerated by a dragon
+[17:00:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:04:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[17:05:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was incinerated by a dragon
+[17:05:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
