@@ -3755,3 +3755,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [14:57:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [15:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned
 [15:04:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:05:50] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[15:05:50] [Server thread/INFO] [RB-Transformer]:  - <init>
+[15:05:50] [Server thread/INFO] [RB-Transformer]:  - Done
+[15:05:50] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[15:05:50] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[15:05:50] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[15:05:59] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
+[15:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was doomed to fall
+[15:12:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:12:39] [Thread-81/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[15:14:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2728ms behind, skipping 54 tick(s)
