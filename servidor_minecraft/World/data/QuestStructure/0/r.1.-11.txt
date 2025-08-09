@@ -1,0 +1,2 @@
+RLCraft_PlainsCamp,528,567,-6102,-6056
+StonePlantMound,610,615,-6085,-6080

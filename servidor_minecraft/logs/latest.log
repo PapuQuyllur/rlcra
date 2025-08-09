@@ -3918,3 +3918,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [16:05:04] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [16:05:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! 2.01096063356448,1.3015347127298327,9.750683761017171
 [16:05:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3976ms behind, skipping 79 tick(s)
+[16:06:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:06:12] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 648 | -6200 ], underground: false
+[16:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:06:34] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[16:08:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan died to water while wearing an Ender Queen's Crown
+[16:08:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:09:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:10:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Cave Spider
+[16:10:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Skeleton
+[16:10:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:11:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Zombie
+[16:11:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[16:12:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:12:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:13:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[16:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[16:14:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:14:47] [Thread-196/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[16:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Zombie
+[16:15:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[16:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
