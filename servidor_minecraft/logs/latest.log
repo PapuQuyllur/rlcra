@@ -3804,3 +3804,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [15:23:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [15:23:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
 [15:24:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:25:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> sigueme
+[15:25:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ok
+[15:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Troll
+[15:26:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Zombie
+[15:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> respawn
+[15:26:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[15:26:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> sigueme
+[15:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:27:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:27:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:28:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:28:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:29:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Skeleton
+[15:29:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:30:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:30:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Maug  Lvl 2
+[15:30:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[15:30:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:31:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Skeleton
+[15:31:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[15:31:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> tqa lleno dfe movbs
+[15:33:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> q lvl se necesita para el diamante?
+[15:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> 16
+[15:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> y 24 para dragon
+[15:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:33:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:33:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:34:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[15:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
