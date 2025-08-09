@@ -4089,3 +4089,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Roc  Lvl 3
 [18:03:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [18:03:02] [Thread-375/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[18:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned
+[18:07:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[18:13:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[18:13:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[18:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[18:16:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
