@@ -4060,3 +4060,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:24:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [17:24:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [17:24:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[17:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was turned into KFC by a dragon
+[17:30:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:30:25] [Thread-325/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[17:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:31:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[17:32:58] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[17:32:58] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[17:32:58] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[17:33:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[17:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
