@@ -7,3 +7,7 @@ ClayWaterMound1,422,433,-7983,-7973
 StonePlantMound1,321,327,-8030,-8024
 StoneBoulder,431,440,-8067,-8058
 ShrineSmallEarth,270,282,-8024,-8012
+StonePlantMound1,288,294,-8145,-8139
+RLCraft_BasicSkeleton,481,481,-8149,-8149
+RLCraft_UndergroundRuin1,478,487,-8155,-8146
+RLCraft_SmallUndergroundSkeleton,486,494,-8147,-8139

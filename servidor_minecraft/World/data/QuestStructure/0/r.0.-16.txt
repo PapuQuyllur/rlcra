@@ -1,0 +1,4 @@
+StoneLeafMound,321,328,-8220,-8211
+AbandonedWoodTower,388,418,-8211,-8175
+StonePlantMound3,392,401,-8274,-8263
+StoneLeafMound,414,421,-8277,-8268

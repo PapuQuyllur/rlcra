@@ -155,12 +155,15 @@
 216 63 -7615 228 87 -7603 Tower-ruined-short.tml
 217 62 -6820 226 68 -6814 PortalShrine.tml
 222 89 -6504 226 97 -6500 SmallWell.tml
+223 54 -8008 230 64 -8001 BridgePilings-sm2.tml
 226 63 276 256 106 306 SkyCastle.tml
 230 63 -6691 240 73 -6679 Piston-LavaTrap.tml
 237 66 -6422 247 76 -6410 Piston-LavaTrap.tml
 239 80 -7334 244 88 -7329 PillarBase.tml
 254 70 -7116 262 76 -7108 LargeStoneHouse.tml
 255 45 54 266 56 90 SunkenShip-v3.tml
+257 63 -8257 262 66 -8250 Melonfield.tml
+264 71 -8109 267 75 -8107 SkeletonHeadStatue.tml
 265 68 -7714 271 73 -7709 VanillaVillageCobbleHouse-r.tml
 270 68 -6592 275 97 -6587 GoldWell.tml
 274 73 -7261 282 79 -7253 ShortTower.tml
@@ -184,6 +187,7 @@
 365 63 -6628 376 68 -6621 OldFoundation.tml
 373 67 -6323 375 71 -6320 SkeletonHeadStatue.tml
 390 65 -6487 397 69 -6480 TinyFarmField.tml
+393 63 -8262 397 69 -8259 StonePillar.tml
 397 71 -6792 401 79 -6788 SmallWell.tml
 399 101 -7800 408 104 -7791 RuinedSmallFountainDiagonal.tml
 399 62 -6701 404 70 -6696 PillarBase.tml
@@ -193,6 +197,7 @@
 424 64 -6878 428 66 -6874 EmeraldOreOutcrop.tml
 425 72 -6949 431 89 -6943 VanillaVillageWell-p.tml
 425 79 -7287 433 88 -7279 LargeStoneTwoStoryHouse.tml
+427 73 -8161 436 82 -8153 HutRuined.tml
 428 64 -7950 432 70 -7947 StonePillar.tml
 430 63 -7949 434 71 -7945 SmallWell.tml
 430 62 -7361 434 70 -7357 SmallWell.tml

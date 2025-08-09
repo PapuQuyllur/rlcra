@@ -4085,3 +4085,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:56:29] [Server thread/INFO] [antiqueatlas]: Created new marker #12"integration.antiqueatlas.marker.ebwizardry.shrine"@(278, -7923)
 [17:56:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [17:57:07] [Server thread/INFO] [antiqueatlas]: Created new marker #13"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(307, -8127)
+[17:57:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[18:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Roc  Lvl 3
+[18:03:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[18:03:02] [Thread-375/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
