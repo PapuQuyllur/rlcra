@@ -6,3 +6,15 @@ RLCraft_DecentWitch,594,594,-7824,-7824
 RLCraft_UndergroundRuin2,592,599,-7829,-7819
 IceThorn,553,579,-7859,-7844
 PeacefulCrypt,526,550,-7995,-7979
+StonePlantMound4,622,629,-7963,-7956
+StonePlantMound3,631,642,-7929,-7920
+StonePlantBoulder,651,661,-7898,-7888
+StonePlantMound1,696,702,-7901,-7895
+StonePlantMound1,612,618,-7993,-7987
+StonePlantMound1,560,566,-7994,-7988
+StonePlantMound,777,782,-8037,-8032
+StonePlantMound1,775,781,-7927,-7921
+StonePlantMound,629,634,-8118,-8113
+ShrineSmallFire,589,599,-8134,-8124
+StonePlantMound3,635,644,-8144,-8133
+StonePlantMound4,546,553,-8151,-8144

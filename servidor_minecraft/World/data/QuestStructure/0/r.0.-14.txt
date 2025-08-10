@@ -30,3 +30,7 @@ P_VillageHouse,-211,-200,-7408,-7399
 RLCraft_Vineyard,-195,-175,-7363,-7335
 StonePlantMound,-179,-174,-7393,-7388
 StonePlantMound1,423,429,-7533,-7527
+RLCraft_BasicSpider,432,432,-7566,-7566
+RLCraft_UndergroundRuin1,426,435,-7569,-7560
+StoneBoulder,424,433,-7596,-7587
+StonePlantMound4,411,418,-7672,-7665
