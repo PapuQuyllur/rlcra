@@ -3863,3 +3863,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:28:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was killed trying to hurt Roc  Lvl 2
 [05:28:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [05:28:14] [Server thread/INFO] [Scaling Health]: Blight Roc  Lvl 2 was killed by CREISIPAPU
+[05:31:01] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
+[05:36:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[05:36:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[05:36:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:36:27] [Server thread/INFO] [AUW]: Stopping DS...
+[05:36:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:36:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:36:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:36:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[05:36:27] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[05:36:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:36:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
