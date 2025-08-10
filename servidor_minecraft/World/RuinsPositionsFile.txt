@@ -78,9 +78,17 @@
 -1235 64 4446 -1231 66 4450 EmeraldOreOutcrop.tml
 -845 35 6870 -819 47 6878 shipwreck.tml
 -780 49 6944 -744 68 6955 SunkenShip-v2.tml
+-739 100 -7425 -737 104 -7422 SkeletonHeadStatue.tml
 -735 62 6862 -723 84 6874 BaloonVeryLow.tml
 -714 63 -5880 -682 76 -5848 Floater.tml
+-657 94 -7602 -650 99 -7591 OldFoundation.tml
 -657 63 -5725 -627 106 -5695 SkyCastle.tml
+-645 92 -7585 -637 101 -7577 LargeStoneTwoStoryHouse.tml
+-644 77 -7570 -639 85 -7565 PillarBase.tml
+-643 77 -7554 -635 86 -7546 LargeStoneTwoStoryHouse.tml
+-631 76 -7539 -623 82 -7531 ShortTower.tml
+-621 67 -7437 -609 73 -7428 VanillaVillageEmpty-p.tml
+-605 68 -7342 -600 79 -7333 VanillaVillageChurch-p.tml
 -556 63 -5850 -525 103 -5820 CastleOcean.tml
 -555 63 -5858 -520 73 -5824 UnderwaterBase.tml
 -539 64 -7536 -530 71 -7528 WoodHouse_Ruined.tml

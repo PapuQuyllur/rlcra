@@ -3810,3 +3810,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [14:52:33] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -344 | -7512 ], underground: true
 [14:52:45] [Server thread/INFO] [antiqueatlas]: Created new marker #24"integration.antiqueatlas.marker.ebwizardry.obelisk"@(-579, -7529)
 [14:52:58] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[14:53:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[14:53:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[14:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was doomed to fall by Vex
+[14:54:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[14:54:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[14:54:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[14:54:47] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[14:55:27] [Server thread/INFO] [antiqueatlas]: Created new marker #25"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(-615, -7341)
+[14:55:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2198ms behind, skipping 43 tick(s)
+[14:55:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -10.437207147295226,-0.23152379758701613,-1.0776095488072315
+[14:55:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved too quickly! -9.4025163211777,0.31999996304512024,-3.495900235569934
+[14:55:58] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[14:56:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved too quickly! -10.262175700770968,-0.3461519168226488,-1.1077227115029018
+[15:02:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[15:02:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[15:02:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:02:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:02:07] [Thread-78/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[15:02:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]

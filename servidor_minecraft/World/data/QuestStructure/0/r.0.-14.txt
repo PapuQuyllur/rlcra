@@ -124,3 +124,5 @@ StonePlantMound4,-476,-469,-7423,-7416
 RLCraft_DecentSkeleton,-349,-349,-7469,-7469
 RLCraft_UndergroundRuin2,-354,-347,-7474,-7464
 StonePlantMound2,-357,-344,-7531,-7519
+StoneLeafMound,-305,-296,-7418,-7411
+StonePlantMound,-356,-351,-7557,-7552
