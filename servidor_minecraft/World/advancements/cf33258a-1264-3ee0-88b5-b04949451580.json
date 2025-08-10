@@ -1342,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-08-10 15:05:55 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2025-08-02 23:34:04 +0000"

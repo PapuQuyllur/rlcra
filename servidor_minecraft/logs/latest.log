@@ -3829,3 +3829,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [15:02:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [15:02:07] [Thread-78/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
 [15:02:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:03:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[15:03:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:03:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was burnt to a crisp whilst fighting Zombie
+[15:03:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:04:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[15:04:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was struck by lightning
+[15:04:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[15:04:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[15:04:30] [Thread-85/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[15:05:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Cave Spider
+[15:05:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:05:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:05:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[15:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was struck by lightning
+[15:06:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:06:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:06:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Cave Spider
+[15:06:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[15:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was burnt to a crisp whilst fighting Zombie
+[15:07:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU burned to death
+[15:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was blown up by Witch
+[15:10:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[15:10:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:10:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:10:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:12:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan experienced kinetic energy
+[15:12:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[15:12:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Zombie
+[15:12:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[15:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has completed the challenge [Sniper duel]
+[15:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[15:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Skeleton
+[15:12:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[15:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]

@@ -76,3 +76,4 @@ StoneMazePagoda,-720,-673,-7544,-7497
 RLCraft_BasicZombie,-742,-742,-7386,-7386
 RLCraft_UndergroundRuin1,-748,-739,-7392,-7383
 SmallFortRuinsJapanese,-745,-699,-7387,-7341
+StonePlantMound3,-630,-621,-7567,-7556
