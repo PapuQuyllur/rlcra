@@ -139,13 +139,16 @@
 106 66 355 118 111 367 TowerEasy.tml
 114 79 -7178 119 82 -7171 Melonfield.tml
 126 92 -6555 133 96 -6548 TinyFarmField.tml
+129 91 -8508 137 100 -8500 LargeStoneTwoStoryHouse.tml
 130 66 -6755 135 71 -6748 ZombieHut.tml
 134 67 -6770 143 82 -6761 MoaiHead.tml
+135 67 -8434 138 71 -8431 StoneGrill.tml
 137 63 147 167 103 178 CastleOcean.tml
 140 63 -6651 148 73 -6643 TallTower.tml
 140 78 -7329 148 87 -7321 LargeStoneTwoStoryHouse.tml
 149 93 -7457 157 101 -7446 MinersHut.tml
 160 35 44 186 47 52 shipwreck.tml
+163 63 -8364 172 78 -8355 MoaiHead.tml
 172 53 -7535 179 63 -7528 BridgePilings-sm2.tml
 173 63 -7088 180 68 -7077 OldFoundation.tml
 175 63 -7006 183 72 -6998 LargeStoneTwoStoryHouse.tml
@@ -158,6 +161,7 @@
 223 54 -8008 230 64 -8001 BridgePilings-sm2.tml
 226 63 276 256 106 306 SkyCastle.tml
 230 63 -6691 240 73 -6679 Piston-LavaTrap.tml
+237 63 -8418 242 68 -8412 VanillaVillageCobble-p.tml
 237 66 -6422 247 76 -6410 Piston-LavaTrap.tml
 239 80 -7334 244 88 -7329 PillarBase.tml
 254 70 -7116 262 76 -7108 LargeStoneHouse.tml
@@ -168,6 +172,7 @@
 270 68 -6592 275 97 -6587 GoldWell.tml
 274 73 -7261 282 79 -7253 ShortTower.tml
 278 62 -6184 286 72 -6176 LargeStoneHouseWBasement.tml
+292 68 -8508 294 72 -8505 SkeletonHeadStatue.tml
 298 81 -6307 306 87 -6299 LargeStoneHouse.tml
 302 68 -7619 312 74 -7611 VanillaVillageForge-r.tml
 308 68 -6702 315 71 -6697 PumpkinField.tml
@@ -175,6 +180,7 @@
 320 103 -7891 325 115 -7886 FrozenBush.tml
 323 55 -6077 330 64 -6070 BridgePilings-small.tml
 333 62 -6889 342 70 -6874 Archway.tml
+338 62 -8412 346 72 -8404 TallTower.tml
 338 162 -7437 345 165 -7432 PumpkinField.tml
 340 68 -6964 347 72 -6957 TinyFarmField.tml
 341 69 -7048 353 75 -7039 VanillaVillageEmptyHouse-r.tml
@@ -186,6 +192,7 @@
 365 62 -6221 373 71 -6213 LargeStoneTwoStoryHouse.tml
 365 63 -6628 376 68 -6621 OldFoundation.tml
 373 67 -6323 375 71 -6320 SkeletonHeadStatue.tml
+374 62 -8526 382 72 -8518 LargeStoneHouseWBasement.tml
 390 65 -6487 397 69 -6480 TinyFarmField.tml
 393 63 -8262 397 69 -8259 StonePillar.tml
 397 71 -6792 401 79 -6788 SmallWell.tml
@@ -205,6 +212,7 @@
 435 66 -7210 440 95 -7205 GoldWell.tml
 442 63 -6271 455 73 -6259 WaterTrapRoom.tml
 442 64 -7440 444 68 -7437 SkeletonHeadStatue.tml
+445 67 -8380 449 75 -8376 SmallWell.tml
 448 65 -7056 453 73 -7051 PillarBase.tml
 460 64 -8053 464 66 -8049 EmeraldOreOutcrop.tml
 461 68 -7585 464 72 -7582 StoneGrill.tml
@@ -222,9 +230,11 @@
 520 72 -7398 527 79 -7391 Outcrop.tml
 526 69 -7306 529 73 -7303 StoneGrill.tml
 529 61 -6169 538 69 -6154 Archway.tml
+534 74 -8312 539 79 -8306 VanillaVillageCobbleHouse-r.tml
 542 63 -7150 550 71 -7141 VanillaVillageLibrary-p.tml
 545 64 -7549 555 81 -7539 WatchtowerRuined.tml
 548 67 -6903 561 82 -6892 StoneHouseM.tml
+557 78 -8387 560 82 -8384 StoneGrill.tml
 565 60 -7073 577 131 -7061 GateUnderGlass.tml
 567 99 -7806 573 105 -7800 SnowHouse3.tml
 571 61 -6452 580 76 -6443 MoaiHead.tml
@@ -241,6 +251,7 @@
 640 71 -7956 642 75 -7953 SkeletonHeadStatue.tml
 648 63 -7102 678 103 -7071 CastleOcean.tml
 664 66 -6338 672 76 -6330 TallTower.tml
+672 68 -8295 680 78 -8287 TallTower.tml
 682 66 -6243 691 73 -6235 WoodHouse_Ruined.tml
 683 62 -7579 688 70 -7574 PillarBase.tml
 693 63 -7231 723 100 -7201 PirateShip.tml

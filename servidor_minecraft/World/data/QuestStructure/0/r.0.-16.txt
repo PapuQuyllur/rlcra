@@ -3,3 +3,13 @@ AbandonedWoodTower,388,418,-8211,-8175
 StonePlantMound3,392,401,-8274,-8263
 StoneLeafMound,414,421,-8277,-8268
 StonePlantMound4,484,491,-8308,-8301
+RLCraft_SmallUndergroundSkeleton,413,421,-8312,-8304
+StonePlantMound3,360,369,-8423,-8412
+StonePlantMound3,336,347,-8306,-8297
+RLCraft_DecentSkeleton,309,309,-8335,-8335
+RLCraft_UndergroundRuin3,303,311,-8338,-8330
+StoneLeafMound,283,290,-8333,-8324
+P_VillageFarmhouse,258,270,-8435,-8423
+StonePlantBoulder,166,176,-8513,-8503
+StonePlantBoulder,156,166,-8385,-8375
+P_Crater,100,183,-8526,-8450

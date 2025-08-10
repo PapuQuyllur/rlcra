@@ -2,3 +2,4 @@ StonePlantMound2,636,649,-8233,-8221
 RLCraft_SmallUndergroundSkeleton,673,681,-8236,-8228
 StonePlantMound3,536,545,-8233,-8222
 PeacefulCrypt,516,540,-8225,-8209
+StonePlantMound,530,535,-8325,-8320
