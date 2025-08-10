@@ -1529,6 +1529,12 @@
     },
     "done": true
   },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2025-08-10 01:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-01 22:47:53 +0000"
