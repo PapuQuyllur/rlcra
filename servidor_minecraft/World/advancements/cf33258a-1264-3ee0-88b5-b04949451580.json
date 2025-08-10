@@ -624,6 +624,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2025-08-10 15:45:26 +0000",
+      "zombie_villager": "2025-08-10 16:42:49 +0000",
       "vindicator": "2025-08-10 16:08:08 +0000",
       "skeleton": "2025-08-03 00:25:27 +0000",
       "zombie": "2025-08-04 01:34:19 +0000",
@@ -796,6 +797,16 @@
       "has_lapis": "2025-08-03 00:46:05 +0000"
     },
     "done": true
+  },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "freeze": "2025-08-10 16:26:20 +0000",
+      "light": "2025-08-10 16:26:28 +0000",
+      "ward": "2025-08-10 16:26:24 +0000",
+      "mine": "2025-08-10 16:26:33 +0000",
+      "mind_trick": "2025-08-10 16:27:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
@@ -1190,6 +1201,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-08-04 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-08-10 16:26:20 +0000"
     },
     "done": true
   },
