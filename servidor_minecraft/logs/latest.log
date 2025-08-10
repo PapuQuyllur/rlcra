@@ -8641,3 +8641,114 @@ MixinLoader (framevoidpatch-1.0.0.jar)
 [17:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
 [17:04:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [17:04:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:06:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Skeleton
+[17:06:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:06:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:06:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Zombie
+[17:06:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[17:09:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was shot by Wither Skeleton
+[17:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:09:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:09:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Vindicator
+[17:09:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:09:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[17:09:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:09:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:09:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[17:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:10:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Vindicator
+[17:10:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Vindicator
+[17:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:10:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:10:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:10:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:10:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[17:10:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[17:10:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Zombie
+[17:10:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Wither Skeleton
+[17:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:10:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:10:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:11:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[17:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Wither Skeleton
+[17:11:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:11:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:11:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[17:11:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Zombie
+[17:11:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:11:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Wither Skeleton
+[17:11:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:11:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:11:55] [Thread-423/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[17:11:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Vindicator
+[17:12:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:12:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:12:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[17:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Baby Geist  Lvl 3
+[17:13:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:15:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:15:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was blown up by Battletower Golem
+[17:15:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was pummeled by Battletower Golem
+[17:15:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Battletower Golem
+[17:15:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:15:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:15:42] [Thread-434/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[17:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:15:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:16:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved too quickly! 7.093571522494358,45.0,3.4134269097876313
+[17:17:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Battletower Golem
+[17:17:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Battletower Golem
+[17:17:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:17:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Battletower Golem
+[17:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:17:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was blown up by Battletower Golem
+[17:17:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:17:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Battletower Golem
+[17:17:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Battletower Golem
+[17:17:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:17:34] [Server thread/INFO] [Scaling Health]: Blight Battletower Golem was killed by CREISIPAPU
+[17:17:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Tremor  Lvl 3
+[17:17:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:18:41] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
+[17:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:21:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[17:21:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:21:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:21:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Roc  Lvl 4
+[17:23:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
