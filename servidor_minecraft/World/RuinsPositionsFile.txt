@@ -110,6 +110,7 @@
 -358 53 -5773 -351 63 -5766 BridgePilings-sm2.tml
 -354 62 -7180 -347 67 -7175 ZombieHut.tml
 -351 76 -5949 -345 81 -5945 VanillaVillageHut-r.tml
+-350 67 -7559 -338 77 -7546 WaterTrapRoom.tml
 -292 63 -6851 -262 92 -6821 Sphere.tml
 -284 65 -5720 -276 71 -5712 LargeStoneHouse.tml
 -279 62 -7211 -271 72 -7203 TallTower.tml
