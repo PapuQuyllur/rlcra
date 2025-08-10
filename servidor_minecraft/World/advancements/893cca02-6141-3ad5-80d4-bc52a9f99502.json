@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-08-10 05:20:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-02 23:35:35 +0000"
@@ -883,6 +889,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2025-08-10 05:25:59 +0000",
       "zombie_villager": "2025-08-08 14:12:38 +0000",
       "skeleton": "2025-08-03 00:55:39 +0000",
       "zombie": "2025-08-01 22:54:51 +0000",

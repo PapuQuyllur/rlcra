@@ -79,8 +79,11 @@
 -845 35 6870 -819 47 6878 shipwreck.tml
 -780 49 6944 -744 68 6955 SunkenShip-v2.tml
 -735 62 6862 -723 84 6874 BaloonVeryLow.tml
+-714 63 -5880 -682 76 -5848 Floater.tml
+-657 63 -5725 -627 106 -5695 SkyCastle.tml
 -556 63 -5850 -525 103 -5820 CastleOcean.tml
 -555 63 -5858 -520 73 -5824 UnderwaterBase.tml
+-497 47 -5674 -486 58 -5638 SunkenShip-v3.tml
 -467 46 -5977 -456 65 -5941 SunkenShip-v2.tml
 -454 50 -5786 -428 62 -5778 shipwreck.tml
 -365 65 -5860 -361 67 -5856 EmeraldOreOutcrop.tml
