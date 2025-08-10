@@ -28,3 +28,12 @@ StonePlantMound2,205,217,-6317,-6304
 RLCraft_SmallUndergroundSkeleton,315,323,-6263,-6255
 DinosaurSkeleton,325,334,-6284,-6238
 StonePlantMound2,358,370,-6266,-6253
+StonePlantMound3,-102,-91,-6422,-6413
+StonePlantMound3,-132,-121,-6255,-6246
+DinosaurSkeleton,-162,-116,-6405,-6396
+StonePlantMound4,-141,-134,-6327,-6320
+StoneBoulder,-43,-34,-6219,-6210
+StonePlantMound2,-180,-168,-6389,-6376
+StonePlantBoulder,-246,-236,-6257,-6247
+StonePlantMound2,-172,-159,-6178,-6166
+StoneBoulder,-145,-136,-6159,-6150

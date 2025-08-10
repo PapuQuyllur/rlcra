@@ -1240,6 +1240,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-08-10 05:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-01 22:38:02 +0000"
@@ -1814,6 +1820,12 @@
   "mujmajnkraftsbettersurvival:gold_nunchaku": {
     "criteria": {
       "has_gold": "2025-08-01 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-08-10 05:19:42 +0000"
     },
     "done": true
   },

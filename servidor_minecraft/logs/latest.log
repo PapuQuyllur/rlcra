@@ -3819,3 +3819,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Banshee  Lvl 3
 [04:59:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [04:59:38] [Thread-122/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[05:03:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU drowned whilst trying to escape Spider
+[05:03:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[05:04:02] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[05:04:03] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[05:04:19] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[05:04:19] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[05:09:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:09:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:11:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:11:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:11:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:11:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:11:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:11:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[05:13:20] [Server thread/INFO] [antiqueatlas]: Created new marker #16"integration.antiqueatlas.marker.ebwizardry.obelisk"@(-151, -6084)
+[05:13:24] [Server thread/INFO] [antiqueatlas]: Created new marker #17"integration.antiqueatlas.marker.ebwizardry.library_ruins"@(-28, -6109)
+[05:13:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! 0.9833551435299626,0.0,10.374349673516008
+[05:13:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[05:14:00] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:14:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[05:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Remnant
+[05:14:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[05:15:14] [Server thread/INFO] [antiqueatlas]: Created new marker #18"integration.antiqueatlas.marker.ebwizardry.library_ruins"@(-87, -5966)
+[05:15:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:15:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:18:56] [Server thread/INFO] [antiqueatlas]: Created new marker #19"integration.antiqueatlas.marker.ebwizardry.obelisk"@(-411, -5817)
+[05:18:58] [Server thread/INFO] [antiqueatlas]: Created new marker #20"integration.antiqueatlas.marker.ebwizardry.library_ruins"@(-424, -5864)
+[05:19:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:19:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[05:20:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -8.766829272614473,1.796735709672177,-4.797662641601164
+[05:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[05:20:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7273ms behind, skipping 145 tick(s)
