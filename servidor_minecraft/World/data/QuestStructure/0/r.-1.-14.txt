@@ -1,0 +1,2 @@
+AbandonedWoodTower,-556,-526,-7573,-7537
+StoneLeafMound,-580,-571,-7405,-7398

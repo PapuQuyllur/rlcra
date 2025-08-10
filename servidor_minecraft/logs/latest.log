@@ -3790,3 +3790,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [14:34:53] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [14:34:53] [Server thread/INFO] [Meson ASM]: Patch result: true
 [14:36:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[14:43:52] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Floppapan)
+[14:46:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[14:48:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[14:49:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2793ms behind, skipping 55 tick(s)
+[14:49:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -9.420286055263091,2.0,-2.7911825844703344
+[14:49:21] [Server thread/INFO] [antiqueatlas]: Created new marker #21"integration.antiqueatlas.marker.ebwizardry.obelisk"@(-295, -7220)
+[14:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[14:49:57] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[14:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[14:50:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[14:51:07] [Server thread/INFO] [antiqueatlas]: Created new marker #22"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(-466, -7353)
+[14:51:27] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[14:51:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -7.105748895513329,0.0,-7.216611638731592
+[14:51:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved too quickly! 3.058216386571644,1.0,-9.688847013821032
+[14:51:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2398ms behind, skipping 47 tick(s)
+[14:51:37] [Server thread/INFO] [antiqueatlas]: Created new marker #23"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(-546, -7317)
+[14:52:13] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[14:52:33] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -344 | -7512 ], underground: true
+[14:52:45] [Server thread/INFO] [antiqueatlas]: Created new marker #24"integration.antiqueatlas.marker.ebwizardry.obelisk"@(-579, -7529)
+[14:52:58] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
