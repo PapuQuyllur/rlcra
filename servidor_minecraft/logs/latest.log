@@ -8752,3 +8752,17 @@ MixinLoader (framevoidpatch-1.0.0.jar)
 [17:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Roc  Lvl 4
 [17:23:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [17:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:25:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Morock  Lvl 4
+[17:25:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:27:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[17:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[17:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[17:27:50] [Server thread/INFO] [AUW]: Stopping DS...
+[17:27:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:27:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:27:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:27:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[17:27:50] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[17:27:50] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:27:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:27:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
