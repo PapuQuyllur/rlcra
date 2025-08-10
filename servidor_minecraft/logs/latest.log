@@ -3755,3 +3755,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:56:16] [Server thread/INFO] [Meson ASM]: Patch result: true
 [03:58:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Grue  Lvl 3
 [03:58:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[04:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was killed by magic
+[04:01:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[04:03:37] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[04:03:37] [Server thread/INFO] [RB-Transformer]:  - <init>
+[04:03:37] [Server thread/INFO] [RB-Transformer]:  - Done
+[04:03:37] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[04:03:37] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[04:03:37] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[04:08:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Spectre  Lvl 3
+[04:08:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
