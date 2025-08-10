@@ -3814,3 +3814,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:36:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
 [04:39:48] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:415]: break block
 [04:39:51] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:415]: break block
+[04:54:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was pummeled by Naxiris  Lvl 2
+[04:54:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[04:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Banshee  Lvl 3
+[04:59:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[04:59:38] [Thread-122/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
