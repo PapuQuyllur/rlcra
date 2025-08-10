@@ -8597,3 +8597,47 @@ MixinLoader (framevoidpatch-1.0.0.jar)
 [16:52:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was shot by Wither Skeleton
 [16:52:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [16:53:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[16:55:30] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
+[16:55:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Enchanter]
+[16:55:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[16:57:49] [Server thread/INFO] [Scaling Health]: Blight Witch has died
+[16:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Barghest  Lvl 2
+[16:57:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[16:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:00:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:00:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:00:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:00:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:00:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was burnt to a crisp whilst fighting Skeleton
+[17:00:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:00:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:00:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Vindicator
+[17:00:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:00:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:00:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was burnt to a crisp whilst fighting Skeleton
+[17:01:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:01:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:03:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU withered away
+[17:03:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:03:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Skeleton
+[17:03:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:04:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[17:04:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:04:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:04:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:04:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:04:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was burnt to a crisp whilst fighting Skeleton
+[17:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Vindicator
+[17:04:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[17:04:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[17:04:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
