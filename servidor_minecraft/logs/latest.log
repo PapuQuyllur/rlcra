@@ -3819,3 +3819,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:50:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
 [01:50:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
 [01:50:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[02:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set own game mode to Survival Mode]
+[02:05:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[02:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[02:05:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:05:38] [Server thread/INFO] [AUW]: Stopping DS...
+[02:05:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:05:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:05:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:05:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[02:05:38] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[02:05:38] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:05:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:05:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:05:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
