@@ -1,23 +1,23 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Zuniroa
-Peregrinus11
-Pongo Sapiens
+Spencer Gilbert
 Jessie Sims
 NickT
 Jordan Pineo
-Lucas
 Jellycraft
-Quaternary
-Jonathan McManus
-Spencer Gilbert
-NerdyWhiteGuy
-Ncc1702
 Hooley
-Genryu
-DreamThorn
-embeddedt
-Belathus
+NerdyWhiteGuy
+Lucas
+Zuniroa
+Ncc1702
 Ivy_
+Jonathan McManus
+Belathus
+Quaternary
+embeddedt
+DreamThorn
+Genryu
+Pongo Sapiens
+Peregrinus11
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -29,7 +29,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 7ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTweaker_Champions.zs} as we are currently loading with a different loader
@@ -39,7 +39,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[0:contenttweaker]: why.zs}
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 359ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 360ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
@@ -678,7 +678,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "rlmixins:curse_break"
 [INITIALIZATION][SERVER][INFO] Script ending!
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 665ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 531ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:stone_brick_slab"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:stone_brick_stairs"
