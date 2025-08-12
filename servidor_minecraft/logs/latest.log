@@ -3749,3 +3749,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:57:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Witch
 [23:58:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [23:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[23:59:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:59:03] [Server thread/INFO] [AUW]: Stopping DS...
+[23:59:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:59:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:59:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:59:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[23:59:03] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[23:59:04] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:59:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:59:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
