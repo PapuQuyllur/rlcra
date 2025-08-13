@@ -1,0 +1,11 @@
+StonePlantMound2,-518,-506,-8227,-8214
+StonePlantBoulder,-783,-773,-8199,-8189
+SmallAbandonedMine,-920,-905,-8336,-8311
+P_Tent,-950,-941,-8321,-8312
+DinosaurSkull,-903,-884,-8403,-8392
+SmallWoodenCottage1,-949,-938,-8451,-8445
+RLCraft_SmallUndergroundSkeleton,-958,-950,-8472,-8464
+DinosaurSkeleton,-955,-909,-8548,-8539
+StonePlantMound4,-942,-935,-8568,-8561
+SmallAbandonedMine,-985,-960,-8477,-8462
+WoodWallRemains,-1006,-978,-8497,-8489

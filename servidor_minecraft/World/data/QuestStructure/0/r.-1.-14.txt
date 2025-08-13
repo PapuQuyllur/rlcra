@@ -77,3 +77,12 @@ RLCraft_BasicZombie,-742,-742,-7386,-7386
 RLCraft_UndergroundRuin1,-748,-739,-7392,-7383
 SmallFortRuinsJapanese,-745,-699,-7387,-7341
 StonePlantMound3,-630,-621,-7567,-7556
+ClayWaterMound,-735,-728,-7658,-7650
+StonePlantMound3,-675,-666,-7657,-7646
+StonePlantMound,-675,-670,-7665,-7660
+StonePlantMound,-794,-789,-7529,-7524
+StonePlantMound,-793,-788,-7535,-7530
+StonePlantBoulder,-784,-774,-7614,-7604
+StonePlantMound,-835,-830,-7460,-7455
+MysticalTree1,-775,-762,-7649,-7638
+StonePlantMound4,-907,-900,-7672,-7665

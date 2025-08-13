@@ -13,3 +13,4 @@ P_VillageFarmhouse,258,270,-8435,-8423
 StonePlantBoulder,166,176,-8513,-8503
 StonePlantBoulder,156,166,-8385,-8375
 P_Crater,100,183,-8526,-8450
+StonePlantMound,-405,-400,-8233,-8228
