@@ -3770,3 +3770,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:36:24] [Thread-32/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
 [22:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was pummeled by Jengu  Lvl 2
 [22:37:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:39:08] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[22:39:08] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[22:39:08] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[22:39:08] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[22:39:08] [Server thread/INFO] [Meson ASM]: Patch result: true
+[22:40:16] [Server thread/ERROR] [RLTweaker]: Entity moving too fast! (aggressive) NaN com.lycanitesmobs.core.entity.creature.EntityCephignis - 434.5 4.0 -6804.5 -0.01903137508830061 NaN 0.042898796426470306 hurt time:0 dead:false pitch:NaN yaw:297.8751
+[22:40:16] [Server thread/ERROR] [RLTweaker]: Entity has bad rotation! (aggressive) NaN com.lycanitesmobs.core.entity.creature.EntityCephignis - 434.5 4.0 -6804.5 -0.01903137508830061 0.0 0.042898796426470306 hurt time:0 dead:false pitch:NaN yaw:297.8751
+[22:40:35] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[22:40:35] [Server thread/INFO] [RB-Transformer]:  - <init>
+[22:40:35] [Server thread/INFO] [RB-Transformer]:  - Done
+[22:40:35] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[22:40:35] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[22:40:35] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[22:40:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[22:40:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned whilst trying to escape Jengu  Lvl 2
+[22:40:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:45:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned whilst trying to escape Spider
+[22:45:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[22:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[22:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU drowned whilst trying to escape Spectre  Lvl 2
+[22:47:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[22:48:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[22:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[22:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[22:50:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[22:50:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[22:50:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was freezer burned!
+[22:50:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[22:51:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[22:51:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:51:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[22:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[22:52:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Zombie
+[22:52:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[22:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Spectre  Lvl 2
+[22:54:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:55:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was shot by Skeleton
+[22:55:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:56:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[22:57:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
