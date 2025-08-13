@@ -3882,3 +3882,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:14:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
 [23:18:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
 [23:18:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:20:40] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[23:20:40] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[23:20:40] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player CREISIPAPU
+[23:20:42] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:20:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [A Curious Crystal...]
+[23:20:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:20:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:21:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[23:21:11] [Server thread/INFO] [antiqueatlas]: Created new marker #1"casa"@(400, -7230)
+[23:21:11] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player CREISIPAPU
+[23:21:27] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:25:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:26:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Grue  Lvl 3
+[23:26:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:29:23] [Server thread/INFO] [antiqueatlas]: Created new marker #2"gui.antiqueatlas.marker.tomb CREISIPAPU"@(483, -6996)
+[23:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU drowned whilst trying to escape Jengu  Lvl 2
+[23:29:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
