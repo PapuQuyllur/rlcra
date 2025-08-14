@@ -3816,3 +3816,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:37:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [17:37:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [17:37:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[17:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan died from hypothermia
+[17:45:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[17:45:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[17:46:43] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 904 | -6552 ], underground: true
+[17:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was turned into KFC by a dragon
+[17:49:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan

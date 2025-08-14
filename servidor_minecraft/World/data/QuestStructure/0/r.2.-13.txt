@@ -1,0 +1,8 @@
+StonePlantMound3,1207,1216,-6695,-6684
+RLCraft_UndergroundRuin2,1241,1251,-6660,-6653
+StonePlantMound3,1257,1268,-6761,-6752
+StonePlantMound2,1239,1252,-6773,-6761
+StoneLeafMound,1290,1299,-6788,-6781
+StonePlantMound1,1334,1340,-6691,-6685
+StonePlantMound1,1361,1367,-6678,-6672
+ShrineSmallAir,1374,1382,-6772,-6764
