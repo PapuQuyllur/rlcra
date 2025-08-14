@@ -343,6 +343,7 @@
 717 58 -7959 724 68 -7952 BridgePilings-sm2.tml
 729 68 -6144 746 101 -6127 SpiralTree.tml
 741 64 -6334 747 81 -6328 VanillaVillageWell-p.tml
+748 63 -6971 783 73 -6937 UnderwaterBase.tml
 748 37 -7310 774 49 -7302 shipwreck.tml
 756 63 -7130 768 104 -7118 BaloonLow.tml
 761 68 -6261 768 71 -6256 Melonfield.tml
@@ -350,6 +351,7 @@
 794 67 -7996 798 75 -7992 SmallWell.tml
 794 32 -8115 802 44 -8089 shipwreck.tml
 806 66 -7736 810 68 -7732 EmeraldOreOutcrop.tml
+808 63 -6835 838 106 -6805 SkyCastle.tml
 1895 63 -8206 1925 103 -8175 CastleOcean.tml
 1916 33 -8323 1924 45 -8297 shipwreck.tml
 2006 63 -8294 2036 106 -8264 SkyCastle.tml
