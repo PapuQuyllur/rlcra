@@ -15,3 +15,4 @@
 40 29 -769 48 36 -761 LargeNetherHouse.tml
 122 122 -801 134 217 -789 Tower-nether.tml
 135 11 -793 145 20 -781 StoneHouseMruined.tml
+163 30 -872 172 36 -864 NetherShrine.tml

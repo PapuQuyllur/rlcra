@@ -4084,3 +4084,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:57:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
 [22:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was incinerated by a dragon
 [22:58:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:01:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Roa
+[23:01:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:01:40] [Thread-153/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[23:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Krake  Lvl 2
+[23:03:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:04:19] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:415]: break block
+[23:04:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[23:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[23:06:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[23:06:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[23:08:51] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@1261aed3)
+[23:08:51] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[23:08:51] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[23:08:51] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 265
+[23:08:51] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:08:51] [Server thread/INFO] [antiqueatlas]: Exiting
+[23:08:51] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU left the overworld
+[23:08:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:08:55] [Server thread/INFO] [antiqueatlas]: Entering
+[23:08:55] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU teleported to the the_nether
+[23:08:55] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for CREISIPAPU
+[23:08:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4029ms behind, skipping 80 tick(s)
+[23:09:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU tried to swim in lava to escape Kathoga
+[23:09:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:09:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[23:09:34] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[23:09:34] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was pummeled by Jengu
