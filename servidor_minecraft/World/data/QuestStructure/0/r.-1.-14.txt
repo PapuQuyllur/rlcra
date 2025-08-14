@@ -86,3 +86,8 @@ StonePlantBoulder,-784,-774,-7614,-7604
 StonePlantMound,-835,-830,-7460,-7455
 MysticalTree1,-775,-762,-7649,-7638
 StonePlantMound4,-907,-900,-7672,-7665
+StonePlantMound2,-957,-944,-7580,-7568
+StoneLeafMound,-972,-963,-7499,-7492
+StonePlantMound,-959,-954,-7516,-7511
+StoneLeafMound,-998,-989,-7477,-7470
+StonePlantMound,-1026,-1021,-7504,-7499
