@@ -4154,3 +4154,124 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:19:33] [Thread-203/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
 [23:19:33] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
 [23:19:33] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[23:23:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:23:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:23:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:23:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:23:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:23:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:23:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:23:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[23:24:31] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@1261aed3)
+[23:24:31] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[23:24:31] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[23:24:31] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 515
+[23:24:31] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:24:31] [Server thread/INFO] [antiqueatlas]: Exiting
+[23:24:31] [Server thread/INFO] [antiqueatlas]: Player Floppapan left the overworld
+[23:24:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:24:32] [Server thread/INFO] [antiqueatlas]: Entering
+[23:24:32] [Server thread/INFO] [antiqueatlas]: Player Floppapan teleported to the the_nether
+[23:24:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [We Need to Go Deeper]
+[23:24:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:24:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:24:32] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Floppapan
+[23:24:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [A Terrible Fortress]
+[23:24:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:24:45] [Server thread/INFO] [antiqueatlas]: Exiting
+[23:24:45] [Server thread/INFO] [antiqueatlas]: Player Floppapan left the the_nether
+[23:24:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:24:46] [Server thread/INFO] [antiqueatlas]: Entering
+[23:24:46] [Server thread/INFO] [antiqueatlas]: Player Floppapan teleported to the overworld
+[23:24:46] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Floppapan
+[23:24:46] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[23:24:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:24:54] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@1261aed3)
+[23:24:54] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[23:24:54] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[23:24:54] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 530
+[23:24:54] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:24:54] [Server thread/INFO] [antiqueatlas]: Exiting
+[23:24:54] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU left the overworld
+[23:24:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:24:55] [Server thread/INFO] [antiqueatlas]: Entering
+[23:24:55] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU teleported to the the_nether
+[23:24:55] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for CREISIPAPU
+[23:25:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! 17.12783734840345,-5.0,17.45705315126588
+[23:26:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was incinerated by a dragon
+[23:26:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:26:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[23:26:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU walked into fire whilst fighting Vorach
+[23:26:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:26:11] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[23:26:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:27:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was incinerated by a dragon
+[23:27:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:27:26] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@1261aed3)
+[23:27:26] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[23:27:26] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[23:27:26] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 636
+[23:27:26] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:27:26] [Server thread/INFO] [antiqueatlas]: Exiting
+[23:27:26] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU left the overworld
+[23:27:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:27:27] [Server thread/INFO] [antiqueatlas]: Entering
+[23:27:27] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU teleported to the the_nether
+[23:27:27] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for CREISIPAPU
+[23:27:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU tried to swim in lava to escape Kathoga
+[23:28:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:28:01] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[23:28:01] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:28:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> afk
+[23:28:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[23:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[23:28:55] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 51 and chunkZ -459...
+[23:28:56] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_ocean_temple at {"x": 1057, "y": 0, "z": -7201}...
+[23:28:58] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_ocean_temple at {"x": 1057, "y": 0, "z": -7201}.
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 9.17244923186206,9.237055564881302E-14,-4.901645503498912
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 9.525235740870471,9.237055564881302E-14,-5.0901703306053605
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 9.878022249880928,9.237055564881302E-14,-5.278695157712718
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 10.230808758893204,9.237055564881302E-14,-5.467219984820986
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 10.583595267907072,9.237055564881302E-14,-5.6557448119301625
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 10.936381776922303,9.237055564881302E-14,-5.844269639040249
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 11.2891682859389,9.237055564881302E-14,-6.032794466150335
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 11.641954794956632,9.237055564881302E-14,-6.221319293261331
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 11.994741303975502,9.237055564881302E-14,-6.409844120373236
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 12.347527812995281,9.237055564881302E-14,-6.598368947485142
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 12.700314322015856,9.237055564881302E-14,-6.7868937745979565
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 13.053100831037227,9.237055564881302E-14,-6.975418601710771
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 13.40588734005928,9.237055564881302E-14,-7.163943428824496
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 13.758673849082015,9.237055564881302E-14,-7.35246825593822
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 14.111460358105319,9.237055564881302E-14,-7.540993083051944
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 14.464246867129077,9.237055564881302E-14,-7.729517910166578
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 14.81703337615329,9.237055564881302E-14,-7.918042737281212
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 15.169819885177958,9.237055564881302E-14,-8.106567564395846
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 15.522606394202967,9.237055564881302E-14,-8.29509239151048
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! 15.875392903228317,9.237055564881302E-14,-8.483617218626023
+[23:28:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2491ms behind, skipping 49 tick(s)
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.583595270638284,0.0,5.655744813390811
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -10.230808761610888,0.0,5.467219986274358
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -9.878022252583378,0.0,5.278695159157905
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -9.525235743555868,0.0,5.090170332041453
+[23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -9.172449234528244,0.0,4.901645504925
+[23:29:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!

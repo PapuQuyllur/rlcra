@@ -35,3 +35,4 @@ DinosaurSkeleton,573,582,-7397,-7351
 RLCraft_BasicSkeleton,796,796,-7302,-7302
 RLCraft_UndergroundRuin1,793,802,-7308,-7299
 StonePlantMound1,772,778,-7679,-7673
+ShrineSmallAir,898,906,-7366,-7358

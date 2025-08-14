@@ -407,6 +407,7 @@
 1035 105 -6831 1040 117 -6826 FrozenBush.tml
 1063 104 -6713 1074 132 -6702 FrozenTree.tml
 1082 55 -6618 1089 65 -6611 BridgePilings-sm2.tml
+1085 61 -7183 1089 69 -7179 SmallWell.tml
 1141 34 -6835 1149 46 -6809 shipwreck.tml
 1177 61 -6560 1184 65 -6553 TinyFarmField.tml
 1221 47 -6839 1232 58 -6803 SunkenShip-v3.tml
