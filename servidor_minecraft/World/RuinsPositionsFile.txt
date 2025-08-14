@@ -77,9 +77,12 @@
 -1272 82 4519 -1264 92 4527 LargeStoneHouseWBasement.tml
 -1235 64 4446 -1231 66 4450 EmeraldOreOutcrop.tml
 -1090 62 -8281 -1085 65 -8274 PumpkinField.tml
+-1024 61 -8726 -1019 69 -8721 PillarBase.tml
+-995 103 -8541 -987 108 -8533 Pit-small.tml
 -986 102 -8286 -975 130 -8275 FrozenTree.tml
 -976 69 -8198 -968 77 -8187 MinersHut.tml
 -966 92 -8466 -953 124 -8453 OreSpire.tml
+-936 61 -8623 -929 64 -8618 PumpkinField.tml
 -935 73 -7967 -932 77 -7964 StoneGrill.tml
 -919 101 -8119 -914 113 -8114 FrozenBush.tml
 -910 66 -8552 -907 70 -8550 SkeletonHeadStatue.tml
@@ -88,6 +91,7 @@
 -903 63 -8544 -895 69 -8536 ShortTower.tml
 -897 69 -8256 -890 76 -8249 Outcrop.tml
 -888 64 -8438 -883 72 -8433 PillarBase.tml
+-846 73 -8642 -838 82 -8634 LargeStoneTwoStoryHouse.tml
 -845 35 6870 -819 47 6878 shipwreck.tml
 -822 61 -8096 -818 63 -8092 EmeraldOreOutcrop.tml
 -813 66 -8469 -803 72 -8461 VanillaVillageForge-r.tml

@@ -317,3 +317,5 @@ SpiderPit,-122,-112,-6814,-6805
 ClayWaterMound1,87,97,-6682,-6671
 StoneLeafMound,-280,-273,-7170,-7161
 StoneLeafMound,-300,-291,-7169,-7162
+RLCraft_BasicWitch,-311,-311,-7046,-7046
+RLCraft_UndergroundRuin1,-314,-305,-7052,-7043
