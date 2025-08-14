@@ -4073,3 +4073,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:49:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
 [22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Stryder  Lvl 2
 [22:49:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:50:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was doomed to fall
+[22:50:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:51:14] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.controllers.SegmentHandler:updatesegment:292]: Warning: number recursions exceeded
+[22:54:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Chupacabra
+[22:54:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:55:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU experienced kinetic energy
+[22:55:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:57:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was incinerated by a dragon
+[22:57:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was incinerated by a dragon
+[22:58:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
