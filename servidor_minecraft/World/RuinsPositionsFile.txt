@@ -348,6 +348,7 @@
 756 63 -7130 768 104 -7118 BaloonLow.tml
 761 68 -6261 768 71 -6256 Melonfield.tml
 766 46 -7578 777 57 -7542 SunkenShip-v3.tml
+772 63 -6740 804 76 -6708 Floater.tml
 794 67 -7996 798 75 -7992 SmallWell.tml
 794 32 -8115 802 44 -8089 shipwreck.tml
 806 66 -7736 810 68 -7732 EmeraldOreOutcrop.tml
