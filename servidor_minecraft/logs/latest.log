@@ -4275,3 +4275,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -9.525235743555868,0.0,5.090170332041453
 [23:28:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Floppapan) moved too quickly! -9.172449234528244,0.0,4.901645504925
 [23:29:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[23:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
+[23:31:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:38:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan

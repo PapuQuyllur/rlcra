@@ -9,3 +9,4 @@ StonePlantBoulder,744,754,-6320,-6310
 StonePlantMound1,796,802,-6380,-6374
 StonePlantMound2,879,892,-6326,-6314
 StonePlantMound3,729,740,-6343,-6334
+ShrineSmallAir,603,611,-6549,-6541
