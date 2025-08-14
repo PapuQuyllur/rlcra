@@ -4278,3 +4278,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Zombie
 [23:31:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [23:38:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[23:45:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Darkling
+[23:45:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:45:49] [Thread-260/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
