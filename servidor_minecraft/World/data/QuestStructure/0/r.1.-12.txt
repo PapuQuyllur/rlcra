@@ -6,3 +6,4 @@ StoneBoulder,636,645,-6358,-6349
 RLCraft_SmallUndergroundSkeleton,692,700,-6220,-6212
 StonePlantMound,757,762,-6285,-6280
 StonePlantBoulder,744,754,-6320,-6310
+StonePlantMound1,796,802,-6380,-6374

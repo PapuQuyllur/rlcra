@@ -3,3 +3,4 @@ StonePlantBoulder,1150,1160,-6576,-6566
 RLCraft_DecentCaveSpider,1246,1246,-6655,-6655
 StonePlantMound1,1246,1252,-6597,-6591
 StonePlantMound4,1248,1255,-6561,-6554
+WoodThorn,1367,1378,-6627,-6616
