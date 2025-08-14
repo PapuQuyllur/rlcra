@@ -4059,3 +4059,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:38:17] [Server thread/INFO] [Meson ASM]: Patch result: true
 [22:38:33] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [22:38:33] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:39:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Arcane Appraisal]
+[22:39:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[22:40:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:40:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:40:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Dark Wraamon
+[22:41:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[22:41:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[22:47:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was incinerated by a dragon
+[22:47:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[22:47:05] [Thread-126/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[22:49:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Floppapan moved wrongly!
+[22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Stryder  Lvl 2
+[22:49:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan

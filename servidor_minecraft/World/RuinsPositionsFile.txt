@@ -401,6 +401,7 @@
 869 47 -6945 880 66 -6909 SunkenShip-v2.tml
 894 100 -6726 898 102 -6722 EmeraldOreOutcrop.tml
 931 64 -6416 936 72 -6411 PillarBase.tml
+944 49 -6333 970 61 -6325 shipwreck.tml
 968 99 -6646 974 105 -6640 SnowHouse3.tml
 983 99 -6723 988 104 -6716 ZombieHut.tml
 1035 105 -6831 1040 117 -6826 FrozenBush.tml
