@@ -4112,3 +4112,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:09:34] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
 [23:09:34] [Server thread/INFO] [FML]: Unloading dimension -1
 [23:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was pummeled by Jengu
+[23:10:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:10:38] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@1261aed3)
+[23:10:38] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[23:10:38] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[23:10:38] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 336
+[23:10:38] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:10:38] [Server thread/INFO] [antiqueatlas]: Exiting
+[23:10:38] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU left the overworld
+[23:10:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:10:39] [Server thread/INFO] [antiqueatlas]: Entering
+[23:10:39] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU teleported to the the_nether
+[23:10:39] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for CREISIPAPU
+[23:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [A Terrible Fortress]
+[23:11:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[23:12:06] [Server thread/INFO] [antiqueatlas]: Created new marker #34"integration.antiqueatlas.marker.ebwizardry.shrine"@(180, -730)
+[23:12:13] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:14:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2049ms behind, skipping 40 tick(s)
+[23:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was pummeled by Reaper
+[23:14:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was burnt to a crisp whilst fighting Vorach
+[23:15:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:15:11] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[23:15:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:15:50] [Server thread/INFO] [Scaling Health]: Blight Reaper was killed by Floppapan
+[23:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned
+[23:17:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[23:18:37] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@1261aed3)
+[23:18:37] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[23:18:37] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[23:18:37] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 515
+[23:18:37] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:18:37] [Server thread/INFO] [antiqueatlas]: Exiting
+[23:18:37] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU left the overworld
+[23:18:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:18:38] [Server thread/INFO] [antiqueatlas]: Entering
+[23:18:38] [Server thread/INFO] [antiqueatlas]: Player CREISIPAPU teleported to the the_nether
+[23:18:38] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for CREISIPAPU
+[23:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU tried to swim in lava to escape Trite
+[23:19:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[23:19:33] [Thread-203/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[23:19:33] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[23:19:33] [Server thread/INFO] [FML]: Unloading dimension -1
