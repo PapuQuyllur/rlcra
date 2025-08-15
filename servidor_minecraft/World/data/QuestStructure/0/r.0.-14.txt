@@ -130,3 +130,5 @@ StonePlantMound4,-416,-409,-7592,-7585
 DinosaurSkeleton,-427,-418,-7608,-7562
 RLCraft_BasicWitch,28,28,-7576,-7576
 RLCraft_UndergroundRuin1,22,31,-7579,-7570
+RLCraft_DecentWitch,338,338,-7659,-7659
+RLCraft_UndergroundRuin3,336,344,-7662,-7654

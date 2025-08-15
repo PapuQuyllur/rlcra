@@ -238,6 +238,7 @@
 -170 71 -7833 -157 82 -7820 BlockHenge.tml
 -151 91 -8133 -146 95 -8128 CaveSpiderBurrow.tml
 -151 69 -7071 -146 72 -7064 PumpkinField.tml
+-143 62 -7736 -133 79 -7726 WatchtowerRuined.tml
 -139 63 293 -124 74 304 Barn-intact.tml
 -133 69 -6231 -125 79 -6223 LargeStoneHouseWBasement.tml
 -129 91 -8202 -126 95 -8200 SkeletonHeadStatue.tml
@@ -270,6 +271,7 @@
 -10 71 -7176 -7 77 -7172 StonePillar.tml
 -6 61 -7019 2 71 -7011 LargeStoneHouseWBasement.tml
 0 79 -6709 13 88 -6696 VolcanicVent.tml
+4 68 -7649 8 70 -7645 EmeraldOreOutcrop.tml
 8 72 -6910 12 74 -6906 EmeraldOreOutcrop.tml
 13 65 -8356 17 67 -8352 EmeraldOreOutcrop.tml
 13 75 -6424 21 84 -6416 LargeStoneTwoStoryHouse.tml
@@ -279,8 +281,10 @@
 24 70 394 28 78 398 SmallWell.tml
 26 69 323 30 75 326 StonePillar.tml
 29 78 -6598 34 86 -6593 PillarBase.tml
+36 61 -7805 41 69 -7800 PillarBase.tml
 38 63 -7449 41 67 -7446 StoneGrill.tml
 41 72 -820 53 118 -808 Tower-edit.tml
+42 62 -7733 46 68 -7730 StonePillar.tml
 54 76 -6823 62 82 -6815 LargeStoneHouse.tml
 55 49 37 66 68 73 SunkenShip-v2.tml
 60 63 224 72 104 236 BaloonLow.tml
@@ -305,6 +309,7 @@
 137 63 147 167 103 178 CastleOcean.tml
 140 78 -7329 148 87 -7321 LargeStoneTwoStoryHouse.tml
 140 63 -6651 148 73 -6643 TallTower.tml
+141 68 -7818 149 77 -7810 LargeStoneTwoStoryHouse.tml
 149 93 -7457 157 101 -7446 MinersHut.tml
 160 35 44 186 47 52 shipwreck.tml
 163 63 -8364 172 78 -8355 MoaiHead.tml
@@ -332,6 +337,7 @@
 274 73 -7261 282 79 -7253 ShortTower.tml
 278 62 -6184 286 72 -6176 LargeStoneHouseWBasement.tml
 292 68 -8508 294 72 -8505 SkeletonHeadStatue.tml
+294 68 -7805 300 74 -7797 StoneHouse.tml
 298 81 -6307 306 87 -6299 LargeStoneHouse.tml
 302 68 -7619 312 74 -7611 VanillaVillageForge-r.tml
 308 68 -6702 315 71 -6697 PumpkinField.tml

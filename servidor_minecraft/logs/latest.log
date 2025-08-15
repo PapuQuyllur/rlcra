@@ -508,3 +508,26 @@
 [03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.536313433094989,0.0,13.186997159970815
 [03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.984072113527475,0.0,13.875247808798122
 [03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 9.436927609991557,0.0,14.561322613260018
+[03:14:51] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 40 | -7640 ], underground: true
+[03:15:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:18:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was turned into KFC by a dragon
+[03:18:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[03:18:51] [Thread-601/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[03:19:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was incinerated by a dragon
+[03:19:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:19:21] [Thread-604/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[03:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by CREISIPAPU
+[03:19:59] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Floppapan
+[03:20:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[03:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Teleported CREISIPAPU to Floppapan]
+[03:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by CREISIPAPU
+[03:27:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:27:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[03:27:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Floppapan
+[03:27:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[03:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan died to water while wearing an Ender Queen's Crown
+[03:30:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[03:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[03:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Enderman
+[03:30:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU

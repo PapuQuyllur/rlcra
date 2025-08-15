@@ -92,3 +92,9 @@ SnakeTemple,-60,-30,-8000,-7954
 P_MayanTemple2,-87,12,-7789,-7721
 RLCraft_SmallUndergroundSkeleton,-6,2,-7893,-7885
 MysticalTree,-156,-141,-7716,-7700
+RLCraft_BasicSkeleton,45,45,-7730,-7730
+RLCraft_UndergroundRuin1,39,48,-7736,-7727
+StoneBoulder,92,101,-7848,-7839
+StonePlantMound2,85,98,-7727,-7715
+StoneLeafMound,212,221,-7728,-7721
+StonePlantBoulder,382,392,-7719,-7709
