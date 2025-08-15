@@ -144,3 +144,5 @@
 [01:30:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [01:30:05] [Thread-425/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
 [01:36:54] [Server thread/INFO] [Scaling Health]: Blight Enderman was killed by Floppapan
+[01:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Trite
+[01:44:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
