@@ -21,3 +21,116 @@
 [00:49:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
 [00:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [Wizard's Apprentice]
 [00:50:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[00:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Spectre
+[00:53:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:53:50] [Thread-364/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[00:57:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[00:58:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was blown up by Creeper
+[00:58:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:02:31] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@1261aed3)
+[01:02:31] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[01:02:31] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[01:02:31] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 636
+[01:02:31] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[01:02:31] [Server thread/INFO] [antiqueatlas]: Exiting
+[01:02:31] [Server thread/INFO] [antiqueatlas]: Player Floppapan left the overworld
+[01:02:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:02:31] [Server thread/INFO] [antiqueatlas]: Entering
+[01:02:31] [Server thread/INFO] [antiqueatlas]: Player Floppapan teleported to the the_nether
+[01:02:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Floppapan
+[01:03:17] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:03:17] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 194 mods : levelup2@${version},friendlyendermite@1.0,disenchanter@1.8,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,fishingmadebetter@2.2.6,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,forgelin@1.8.4,llibrary@1.7.20,waila@1.8.26,snowrealmagic@0.7.1,bq_msi@1.0.9,mainmenuscale@1.0,dshuds@3.6.0.0,craftablechainmail@1.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,spark@1.6.3,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,forgottenitems@1.2.1,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,itemphysic@1.4.0,bibliotheca@1.3.6-1.12.2,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,kiwi@0.5.3.32,ctgui@1.0.0,rltweaker@0.5.12,coralreef@2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,mujmajnkraftsbettersurvival@1.5.3,framevoidpatch@1.0.0,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,inventorytweaks@1.64+dev.151.822d839,bettercombatmod@2.0.8,xat@0.32,iceandfire@1.7.1,crafttweaker@4.1.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,minecraft@1.12.2,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,fermiumbooter@1.3.1,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,mantle@1.12-1.3.3.55,loottweaker@0.3.1,tnt_utilities@1.2.3,xaerominimap@25.2.10,autoreglib@1.3-32,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,appleskin@1.0.14,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,aquaculture@1.6.8,collisiondamage@1.2.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6,wolfarmor@3.8.1+alpha.1,grapplemod@1.12.2-v12.3,foodexpansion@1.3,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,hammertime@2.2.0,incontrol@3.9.18,multimine@1.6.2,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,familiarfauna@1.0.11,librarianliblate@4.22,carryon@1.12.3,loadingscreens@0.3.1,bq_standard@3.4.173,mcwbridges@1.0.6,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,compatskills@1.12.2-1.17.0,helpfixer@1.12.1-1.5.18,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.4,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,spartanweaponry@1.5.3,msic@1.0,materialtweaker@1.1.1,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,librarianlib@4.22,xpfromharvest@1.2.0,ebwizardry@4.3.14,googlyeyes@7.1.1,callablehorses@1.1.1,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,artifacts@1.1.2,tumbleweed@1.12-0.4.7,surge@2.0.79,foamfixcore@7.7.4,realistictorches@2.1.2,rlmixins@1.2.14,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,antiquecities@1.0,firstaid@1.6.22,portaldupebegone@1.0.0,wearablebackpacks@3.2.6,orelib@3.6.0.1,spartandefiled@1.0,variedcommodities@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,randomenchantments@@VERSION@,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,bloodmoon@1.5.3,quark@r1.6-179,legendarytooltips@1.1.9,spartanshields@1.5.5,bqtweaker@1.3.5,reskillable@1.12.2-1.13.0,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tnt_utilities_core@1.2.3,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2
+[01:03:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:03:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CREISIPAPU[/127.134.51.58:34087] logged in with entity id 140683 at (412.5, 70.0, -7230.5)
+[01:03:20] [Server thread/INFO] [dsurround]: Player [CREISIPAPU] connected with Dynamic Surroundings 3.6.2.1
+[01:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU joined the game
+[01:03:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:03:20] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for CREISIPAPU
+[01:03:20] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for CREISIPAPU
+[01:03:20] [Server thread/INFO] [ebwizardry]: Synchronising config settings for CREISIPAPU
+[01:03:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:03:20] [Server thread/INFO] [Waila]: Player EntityPlayerMP['CREISIPAPU'/140683, l='World', x=412.50, y=70.00, z=-7230.50] connected. Sending ping
+[01:03:20] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player CREISIPAPU
+[01:03:20] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: CREISIPAPU
+[01:03:20] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: CREISIPAPU
+[01:03:20] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player CREISIPAPU
+[01:03:20] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player CREISIPAPU
+[01:03:20] [Server thread/INFO] [XAT]: Syncing Config to CREISIPAPU
+[01:03:20] [Thread-384/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 893cca02-6141-3ad5-80d4-bc52a9f99502.
+[01:03:20] [Server thread/INFO] [antiqueatlas]: Exiting
+[01:03:20] [Server thread/INFO] [antiqueatlas]: Player Floppapan left the the_nether
+[01:03:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:03:21] [Server thread/INFO] [antiqueatlas]: Entering
+[01:03:21] [Server thread/INFO] [antiqueatlas]: Player Floppapan teleported to the overworld
+[01:03:21] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Floppapan
+[01:03:22] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[01:03:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:03:44] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[01:03:44] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[01:06:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Added new objective 'vida' successfully]
+[01:06:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ola
+[01:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Floppapan
+[01:06:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[01:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> pendejo
+[01:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> grasias
+[01:07:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> como me curaste
+[01:07:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Wizard's Apprentice]
+[01:07:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> A MI
+[01:07:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> TARDE MIL VECES
+[01:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> :v
+[01:07:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> EN DARE¿EM CUENTA
+[01:07:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> y el libro
+[01:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> aca
+[01:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -23.909718596666323,12.107421875,7.909248517112246
+[01:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -24.77707227622352,13.838085889816284,8.697151996103457
+[01:08:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -24.77707227622352,13.838085889816284,8.697151996103457
+[01:08:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -28.41217719131396,10.943359375,10.494450890917506
+[01:08:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.515005392488092,11.071300271344995,11.104615466845644
+[01:08:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.493549864950523,11.111670104307137,10.982645723825954
+[01:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.605274098946268,11.126274295101652,11.049935093246859
+[01:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.389109173948725,11.108642578125,12.432164172136254
+[01:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.77707227622352,10.838085889816284,12.697151996103457
+[01:08:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.77707227622352,10.838085889816284,12.697151996103457
+[01:08:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -30.229989358772286,10.755463320544322,6.893914905621386
+[01:08:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -28.023334943013424,11.637044270833329,6.602694307838647
+[01:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.74359433115194,12.989501953125,6.424835547868497
+[01:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -25.94622970460472,13.802083333333343,6.30533267087867
+[01:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -25.58955937153553,14.322021484375,6.259685349134088
+[01:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -25.305965032007407,14.84466143449147,6.22719264160969
+[01:08:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -26.17777637462541,14.924448194076106,5.5928652581606
+[01:08:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -25.77707227622352,14.838085889816284,5.697151996103457
+[01:08:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -25.789999221686344,14.838085889816284,5.711884751824073
+[01:08:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved too quickly! -25.83405958757129,14.759685888290406,5.698707488506443
+[01:09:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[01:09:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[01:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> :,v
+[01:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> cura aliado y golem de nieve
+[01:10:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> mi varita está en novato
+[01:11:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> cuanto te falta de exp?
+[01:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> 100
+[01:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> en la varita}
+[01:11:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> poco
+[01:11:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> usa hecizos
+[01:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ok
+[01:12:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> srryt
+[01:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> le tienen una bronca los golems
+[01:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> si
+[01:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan drowned whilst trying to escape Zombie
+[01:17:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU has made the advancement [Local Brewery]
+[01:17:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[01:18:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> usa los cora
+[01:19:08] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
+[01:19:09] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
+[01:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ahora si
+[01:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CREISIPAPU: Set the display objective in slot 'list' to 'vida']
+[01:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> god
+[01:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> o no
+[01:20:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> q es?
+[01:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> tab
+[01:20:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ah
+[01:20:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> crema de magma
+[01:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> i need
+[01:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ni idea
+[01:21:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ya consegui
