@@ -134,3 +134,13 @@
 [01:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> i need
 [01:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ni idea
 [01:21:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> ya consegui
+[01:23:56] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player CREISIPAPU)
+[01:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> en un rato voy a call
+[01:24:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Floppapan> ok
+[01:24:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> en un rato vuelvo
+[01:24:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[01:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[01:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Morock  Lvl 2
+[01:30:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[01:30:05] [Thread-425/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for cf33258a-1264-3ee0-88b5-b04949451580.
+[01:36:54] [Server thread/INFO] [Scaling Health]: Blight Enderman was killed by Floppapan
