@@ -395,3 +395,116 @@
 [03:02:05] [Server thread/INFO] [antiqueatlas]: Created new marker #35"integration.antiqueatlas.marker.ebwizardry.obelisk"@(1086, -7569)
 [03:02:34] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [03:03:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan starved to death
+[03:05:40] [Server thread/INFO] [antiqueatlas]: Created new marker #36"integration.antiqueatlas.marker.ebwizardry.shrine"@(929, -7660)
+[03:05:43] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:05:43] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:06:19] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[03:08:38] [Server thread/INFO] [antiqueatlas]: Created new marker #37"integration.antiqueatlas.marker.ebwizardry.wizard_tower"@(5, -8290)
+[03:08:41] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:pixelmon.trainer
+[03:08:41] [Server thread/ERROR] [reccomplex]: Error loading entity with ID 'pixelmon.Trainer'
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -10.175609378704163,1.575000000000017,-2.9639962963392463
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -10.904221900496566,2.1000000000000227,-3.308207844807839
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -11.631806920747046,2.6250000000000284,-3.664563224723679
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -12.358485684661556,2.6250000000000284,-4.031629463692298
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -13.084365130508917,2.6250000000000284,-4.4081426800948975
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -13.809539577839729,2.6250000000000284,-4.792988130375306
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -14.534092216495416,2.6250000000000284,-5.185182610739503
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -15.258096419914171,2.6250000000000284,-5.583858935466196
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -15.981616903466767,2.6250000000000284,-5.988252246770571
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -16.704710746108713,2.6250000000000284,-6.397687940101605
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -17.427428291477433,2.6250000000000284,-6.811571014261062
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -18.14981394265996,2.6250000000000284,-7.229376678209519
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -18.782449853259035,2.6250000000000284,-7.646673436272977
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -19.335926494760507,2.6250000000000284,-8.063521339357976
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -19.819584662767447,2.6250000000000284,-8.479973352363231
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -20.241662938783527,2.6250000000000284,-8.896076190327221
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -20.609427751502484,2.6250000000000284,-9.311871055911979
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -20.929288090862407,2.6250000000000284,-9.727394289866425
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -21.206896685838956,2.6250000000000284,-10.142677944728348
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -21.447239243256583,2.6250000000000284,-10.557750290836339
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -21.654713156417955,2.6250000000000284,-10.972636262629749
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -12.387365036967006,1.575000000000017,-8.753804587662671
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -12.540279500802658,1.575000000000017,-9.168381192268498
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -12.670641837467494,1.575000000000017,-9.582829920067525
+[03:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -12.781113198494598,1.575000000000017,-9.997165860526366
+[03:08:50] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 0 and chunkZ -510...
+[03:08:50] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": 7, "y": 0, "z": -8155}...
+[03:08:52] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": 7, "y": 0, "z": -8155}.
+[03:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -9.357004404073571,-4.2000000000000455,-0.03027488044790516
+[03:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -9.622719699276534,-4.2000000000000455,-0.4759860001904599
+[03:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -9.813045532419103,-4.2000000000000455,-0.8905953936355218
+[03:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -9.936877861785884,-4.2000000000000455,-1.2777730652142054
+[03:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -10.00206292237604,-4.2000000000000455,-1.6407559587478318
+[03:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -9.99901251774665,-4.2000000000000455,-1.8813174805491144
+[03:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! -10.011102008637152,-4.2000000000000455,-1.9962412846507505
+[03:09:19] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[03:10:40] [Server thread/INFO] [antiqueatlas]: Created new marker #38"integration.antiqueatlas.marker.ebwizardry.shrine"@(-331, -8470)
+[03:10:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:10:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:10:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:10:49] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[03:11:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:01] [Server thread/INFO] [antiqueatlas]: Created new marker #39"integration.antiqueatlas.marker.ebwizardry.obelisk"@(-424, -8592)
+[03:11:01] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:01] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:01] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:01] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:11:34] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:11:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc moved wrongly!
+[03:13:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 6.399878101524735,0.0,8.586248487141347
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 6.947787498851767,0.0,9.199145455906546
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 7.489960627536107,0.0,9.820516586281883
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.027938634760858,0.0,10.448724649035285
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.562646100730092,0.0,11.0826407601362
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 9.094468949388272,0.0,11.72159136974551
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 9.623747565645601,0.0,12.364982406921627
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 10.15078216898479,0.0,13.012289901107579
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 10.675837552982557,0.0,13.6630517102858
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 11.19914726556749,0.0,14.316860225206256
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 11.720917296007087,0.0,14.973355934518622
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 12.241329326830453,0.0,15.63222174922339
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 12.760543602024072,0.0,16.2931779968294
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 7.434392337748477,0.0,8.972186866492848
+[03:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 7.95161842970343,0.0,9.63661307370603
+[03:13:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.468022706889528,0.0,10.302473587371423
+[03:13:49] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[03:13:49] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[03:13:49] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[03:13:49] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[03:13:49] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[03:13:49] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[03:13:49] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[03:13:49] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:13:49] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-56, y=41, z=-7832}
+[03:13:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.98370214346869,0.0,10.969599159298014
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 5.870730953489954,0.0,9.083348688264778
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 6.312078397516672,0.0,9.76317982373439
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 6.754788685167313,0.0,10.444931769528921
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 7.198701000862428,0.0,11.128377869985343
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 7.643673505264644,0.0,11.81331821481399
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.089581096081758,0.0,12.499576483143755
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.536313433094989,0.0,13.186997159970815
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 8.984072113527475,0.0,13.875247808798122
+[03:13:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU's Scarlet Roc (vehicle of CREISIPAPU) moved too quickly! 9.436927609991557,0.0,14.561322613260018

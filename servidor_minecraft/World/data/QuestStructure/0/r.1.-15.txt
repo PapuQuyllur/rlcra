@@ -18,3 +18,9 @@ StonePlantMound,629,634,-8118,-8113
 ShrineSmallFire,589,599,-8134,-8124
 StonePlantMound3,635,644,-8144,-8133
 StonePlantMound4,546,553,-8151,-8144
+P_VillageFarmhouse,982,994,-7707,-7695
+ClayWaterMound1,986,996,-7758,-7747
+RLCraft_BasicSpider,833,833,-7781,-7781
+RLCraft_UndergroundRuin1,827,836,-7784,-7775
+StoneLeafMound,958,967,-7801,-7794
+PirateChest,561,565,-8018,-8014

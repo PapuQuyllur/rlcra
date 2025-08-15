@@ -1,2 +1,3 @@
 P_LargeShip,1096,1114,-7438,-7378
 P_CultIsland,1051,1221,-7390,-7180
+StonePlantMound2,1028,1041,-7613,-7601

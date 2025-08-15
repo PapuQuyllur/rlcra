@@ -37,3 +37,8 @@ RLCraft_UndergroundRuin1,793,802,-7308,-7299
 StonePlantMound1,772,778,-7679,-7673
 ShrineSmallAir,898,906,-7366,-7358
 StonePlantMound2,1002,1014,-7520,-7507
+StonePlantBoulder,992,1002,-7585,-7575
+ShrineSmallAir,984,992,-7659,-7651
+StonePlantBoulder,1015,1025,-7653,-7643
+ElvenPond,955,985,-7676,-7647
+StonePlantMound,871,876,-7681,-7676

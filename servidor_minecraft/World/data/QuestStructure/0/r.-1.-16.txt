@@ -160,3 +160,7 @@ PyramidMazePath,-974,-972,-8666,-8664
 PyramidMazePagoda,-1019,-972,-8684,-8637
 StoneBoulder,-922,-913,-8685,-8676
 StoneBoulder,-939,-930,-8698,-8689
+StoneBoulder,-522,-513,-8541,-8532
+RLCraft_BasicSpider,-531,-531,-8601,-8601
+RLCraft_UndergroundRuin1,-534,-525,-8604,-8595
+StonePlantMound,-517,-512,-8352,-8347
