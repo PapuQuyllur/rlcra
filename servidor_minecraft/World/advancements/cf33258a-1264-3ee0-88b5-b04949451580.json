@@ -412,6 +412,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2025-08-15 00:50:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-13 23:25:55 +0000"
@@ -762,9 +768,10 @@
   },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
+      "criteria_1": "2025-08-15 00:46:02 +0000",
       "criteria_0": "2025-08-14 22:46:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -1589,6 +1596,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-08-09 16:30:46 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:special_upgrade": {
+    "criteria": {
+      "criteria_0": "2025-08-15 00:49:40 +0000"
     },
     "done": true
   },

@@ -11,3 +11,13 @@
 [00:27:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
 [00:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Darkling
 [00:32:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:42:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Russet Shade
+[00:42:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:45:38] [Server thread/INFO] [STDOUT]: [com.yyon.grapplinghook.entities.grappleArrow:func_70184_a:402]: ignore block
+[00:46:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[00:47:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan was slain by Darkling
+[00:47:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Floppapan
+[00:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [Arcane Tinkering]
+[00:49:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
+[00:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan has made the advancement [Wizard's Apprentice]
+[00:50:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Floppapan
