@@ -531,3 +531,17 @@
 [03:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
 [03:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Enderman
 [03:30:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[03:41:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU lost connection: Disconnected
+[03:41:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU left the game
+[03:42:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Floppapan lost connection: Disconnected
+[03:42:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Floppapan left the game
+[03:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:42:05] [Server thread/INFO] [AUW]: Stopping DS...
+[03:42:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:42:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:42:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:42:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[03:42:05] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[03:42:05] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:42:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:42:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
