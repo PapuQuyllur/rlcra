@@ -232,3 +232,8 @@
 [02:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
 [02:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CREISIPAPU was slain by Floppapan
 [02:12:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to CREISIPAPU
+[02:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CREISIPAPU> a
+[02:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Floppapan: Teleported Floppapan to CREISIPAPU]
+[02:17:37] [Server thread/INFO] [ebwizardry]: Synchronising advancements for CREISIPAPU
+[02:22:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!
+[02:22:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CREISIPAPU moved wrongly!

@@ -855,9 +855,10 @@
   },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
+      "criteria_1": "2025-08-15 02:17:37 +0000",
       "criteria_0": "2025-08-10 05:20:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
