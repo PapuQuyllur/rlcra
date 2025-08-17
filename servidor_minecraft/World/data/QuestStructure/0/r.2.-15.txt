@@ -1,1 +1,11 @@
 StonePlantMound3,1024,1033,-7696,-7685
+StonePlantMound,1070,1075,-8168,-8163
+RLCraft_SmallUndergroundSkeleton,1170,1178,-8055,-8047
+RLCraft_DecentCaveSpider,1093,1093,-7842,-7842
+RLCraft_UndergroundRuin3,1088,1096,-7848,-7840
+P_LargeShip,1305,1365,-7828,-7810
+P_LargeShip,1350,1410,-8125,-8107
+RLCraft_SmallUndergroundSkeleton,1072,1080,-7757,-7749
+RLCraft_DecentSpider,1131,1131,-7736,-7736
+RLCraft_UndergroundRuin3,1128,1136,-7738,-7730
+RLCraft_4Towers,1118,1170,-7743,-7683

@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-16 23:38:54 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:find_library_ruins": {
     "criteria": {
       "surface": "2025-08-14 22:16:01 +0000"
@@ -447,6 +453,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2025-08-16 23:38:54 +0000"
     },
     "done": true
   },
@@ -1817,6 +1829,7 @@
       "extreme_hills_with_trees": "2025-08-03 00:04:59 +0000",
       "forest_hills": "2025-08-01 22:55:59 +0000",
       "plains": "2025-08-01 22:32:34 +0000",
+      "savanna": "2025-08-16 23:19:24 +0000",
       "taiga": "2025-08-02 23:52:43 +0000",
       "birch_forest_hills": "2025-08-04 02:01:30 +0000",
       "ocean": "2025-08-01 22:35:41 +0000",
@@ -2057,6 +2070,12 @@
   "mujmajnkraftsbettersurvival:iron_battleaxe": {
     "criteria": {
       "has_iron": "2025-08-01 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2025-08-16 23:38:54 +0000"
     },
     "done": true
   },

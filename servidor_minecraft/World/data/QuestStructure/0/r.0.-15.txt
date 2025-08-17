@@ -98,3 +98,4 @@ StoneBoulder,92,101,-7848,-7839
 StonePlantMound2,85,98,-7727,-7715
 StoneLeafMound,212,221,-7728,-7721
 StonePlantBoulder,382,392,-7719,-7709
+StonePlantMound1,-194,-188,-7714,-7708

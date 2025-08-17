@@ -132,3 +132,6 @@ RLCraft_BasicWitch,28,28,-7576,-7576
 RLCraft_UndergroundRuin1,22,31,-7579,-7570
 RLCraft_DecentWitch,338,338,-7659,-7659
 RLCraft_UndergroundRuin3,336,344,-7662,-7654
+RLCraft_BasicWitch,-109,-109,-7625,-7625
+RLCraft_UndergroundRuin1,-115,-106,-7628,-7619
+StoneBoulder,-161,-152,-7509,-7500
